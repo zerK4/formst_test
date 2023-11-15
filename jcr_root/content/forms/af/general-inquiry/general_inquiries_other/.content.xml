@@ -5,14 +5,14 @@
         cq:conf="/conf/forms"
         cq:deviceGroups="[mobile/groups/responsive]"
         cq:isDelivered="{Boolean}true"
-        cq:lastModified="{Date}2023-11-14T18:50:05.538Z"
+        cq:lastModified="{Date}2023-11-14T12:58:54.574Z"
         cq:lastModifiedBy="alin.costin@brandwidth.com"
-        cq:lastReplicated="{Date}2023-11-14T18:08:12.068Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T18:08:12.068Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T18:08:12.068Z"
-        cq:lastReplicatedBy="alin.costin@brandwidth.com"
-        cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
-        cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
+        cq:lastReplicated="{Date}2023-11-14T13:19:31.448Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T13:19:31.448Z"
+        cq:lastReplicated_scene7="{Date}2023-11-14T13:19:31.448Z"
+        cq:lastReplicatedBy="brendan.turner@brandwidth.com"
+        cq:lastReplicatedBy_publish="brendan.turner@brandwidth.com"
+        cq:lastReplicatedBy_scene7="brendan.turner@brandwidth.com"
         cq:lastReplicationAction="Activate"
         cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
@@ -30,7 +30,6 @@
             fd:version="1.1"
             jcr:lastModified="{Date}2023-11-07T10:39:50.695Z"
             jcr:lastModifiedBy="alin.costin@brandwidth.com"
-            jcr:mixinTypes="[]"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="fd/af/components/guideContainer"
             _invokeSubmitActionSync="true"
@@ -55,17 +54,15 @@
             textIsRich="true"
             thankYouMessage="Thank you for submitting the form."
             thankYouOption="page"
-            themeRef="/content/dam/formsanddocuments-themes/dow-theme"
+            themeRef="/content/dam/formsanddocuments-themes/dow-new-theme"
             useExistingAF="false">
             <layout
-                jcr:mixinTypes="[]"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="fd/af/layouts/defaultGuideLayout"
                 mobileLayout="fd/af/layouts/mobile/step"
                 toolbarPosition="Bottom"/>
             <rootPanel
                 fd:translationIds="\{&quot;jcr:title&quot;:&quot;guideContainer##rootPanel##jcr:title##9950&quot;}"
-                jcr:mixinTypes="[]"
                 jcr:primaryType="nt:unstructured"
                 jcr:title="Root Panel"
                 sling:resourceType="fd/af/components/rootPanel"
@@ -75,7 +72,6 @@
                 name="guideRootPanel"
                 panelSetType="Navigable">
                 <layout
-                    jcr:mixinTypes="[]"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="fd/af/layouts/gridFluidLayout2"
                     nonNavigable="{Boolean}true"
@@ -210,7 +206,7 @@
                             <guideradiobutton
                                 jcr:created="{Date}2023-11-14T10:53:59.016Z"
                                 jcr:createdBy="alin.costin@brandwidth.com"
-                                jcr:lastModified="{Date}2023-11-14T16:50:41.881Z"
+                                jcr:lastModified="{Date}2023-11-14T12:58:54.539Z"
                                 jcr:lastModifiedBy="alin.costin@brandwidth.com"
                                 jcr:primaryType="nt:unstructured"
                                 jcr:title="Is this request on behalf of someone else?"
@@ -218,13 +214,12 @@
                                 alignment="guideFieldHorizontalAlignment"
                                 enabled="{Boolean}true"
                                 guideNodeClass="guideRadioButton"
-                                mandatory="true"
                                 name="request-for-someone-else"
-                                options="[yes=Yes,no=No]"
+                                options="[yes=yes,no=no]"
                                 textIsRich="[true,true]"
                                 visible="{Boolean}true">
                                 <fd:rules
-                                    fd:valueCommit="[{&quot;nodeName&quot;:&quot;ROOT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_SCRIPTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;EVENT_CONDITION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;COMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.request-for-someone-else&quot;\,&quot;type&quot;:&quot;RADIO BUTTON|FIELD|AFCOMPONENT|STRING&quot;\,&quot;name&quot;:&quot;request-for-someone-else&quot;}}\,{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON_OPERATOR&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EQUALS_TO&quot;\,&quot;value&quot;:null}}\,{&quot;nodeName&quot;:&quot;PRIMITIVE_EXPRESSION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;STRING_LITERAL&quot;\,&quot;value&quot;:&quot;yes&quot;}}]}\,&quot;nested&quot;:false}\,{&quot;nodeName&quot;:&quot;Then&quot;\,&quot;value&quot;:null}\,{&quot;nodeName&quot;:&quot;BLOCK_STATEMENTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;BLOCK_STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;SHOW_STATEMENT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;AFCOMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.requestor-panel&quot;\,&quot;displayName&quot;:&quot;Section&quot;\,&quot;type&quot;:&quot;AFCOMPONENT&quot;\,&quot;isDuplicate&quot;:true\,&quot;displayPath&quot;:&quot;FORM/Root Panel/Section/Section/&quot;\,&quot;name&quot;:&quot;requestor-panel&quot;\,&quot;parent&quot;:&quot;guide.guideRootPanel.panel-form&quot;}}]}}]}]}}]\,&quot;isValid&quot;:true\,&quot;enabled&quot;:true\,&quot;version&quot;:1\,&quot;script&quot;:&quot;/**\\n\\n * This is a machine-generated code for the rule.\\n * If you modify it in the code editor\, you will not be able to view and edit the rule in the visual editor.\\n */\\n\\nif (this.value == \\&quot;yes\\&quot;) {\\n    guideBridge.resolveNode(\\&quot;requestor-panel\\&quot;).visible = true;\\n}\\n&quot;\,&quot;eventName&quot;:&quot;Value Commit&quot;\,&quot;ruleType&quot;:&quot;&quot;\,&quot;description&quot;:&quot;&quot;},{&quot;nodeName&quot;:&quot;ROOT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_SCRIPTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;EVENT_CONDITION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;COMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.request-for-someone-else&quot;\,&quot;type&quot;:&quot;STRING&quot;\,&quot;name&quot;:&quot;request-for-someone-else&quot;}}\,{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON_OPERATOR&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EQUALS_TO&quot;\,&quot;value&quot;:null}}\,{&quot;nodeName&quot;:&quot;PRIMITIVE_EXPRESSION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;STRING_LITERAL&quot;\,&quot;value&quot;:&quot;no&quot;}}]}\,&quot;nested&quot;:false}\,{&quot;nodeName&quot;:&quot;Then&quot;\,&quot;value&quot;:null}\,{&quot;nodeName&quot;:&quot;BLOCK_STATEMENTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;BLOCK_STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;HIDE_STATEMENT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;AFCOMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.requestor-panel&quot;\,&quot;displayName&quot;:&quot;Section&quot;\,&quot;type&quot;:&quot;AFCOMPONENT&quot;\,&quot;isDuplicate&quot;:true\,&quot;displayPath&quot;:&quot;FORM/Root Panel/Section/Section/&quot;\,&quot;name&quot;:&quot;requestor-panel&quot;\,&quot;parent&quot;:&quot;guide.guideRootPanel.panel-form&quot;}}]}}]}]}}]\,&quot;isValid&quot;:true\,&quot;enabled&quot;:true\,&quot;version&quot;:1\,&quot;script&quot;:&quot;/**\\n\\n * This is a machine-generated code for the rule.\\n * If you modify it in the code editor\, you will not be able to view and edit the rule in the visual editor.\\n */\\n\\nif (this.value == \\&quot;no\\&quot;) {\\n    guideBridge.resolveNode(\\&quot;requestor-panel\\&quot;).visible = false;\\n}\\n&quot;\,&quot;eventName&quot;:&quot;Value Commit&quot;\,&quot;ruleType&quot;:&quot;&quot;\,&quot;description&quot;:&quot;&quot;}]"
+                                    fd:valueCommit="[{&quot;nodeName&quot;:&quot;ROOT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_SCRIPTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;EVENT_CONDITION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;COMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.radiobutton1699959239636&quot;\,&quot;type&quot;:&quot;RADIO BUTTON|FIELD|AFCOMPONENT|STRING&quot;\,&quot;name&quot;:&quot;radiobutton1699959239636&quot;}}\,{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON_OPERATOR&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EQUALS_TO&quot;\,&quot;value&quot;:null}}\,{&quot;nodeName&quot;:&quot;PRIMITIVE_EXPRESSION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;STRING_LITERAL&quot;\,&quot;value&quot;:&quot;yes&quot;}}]}\,&quot;nested&quot;:false}\,{&quot;nodeName&quot;:&quot;Then&quot;\,&quot;value&quot;:null}\,{&quot;nodeName&quot;:&quot;BLOCK_STATEMENTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;BLOCK_STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;SHOW_STATEMENT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;AFCOMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.requestor-panel&quot;\,&quot;displayName&quot;:&quot;Section&quot;\,&quot;type&quot;:&quot;AFCOMPONENT&quot;\,&quot;isDuplicate&quot;:true\,&quot;displayPath&quot;:&quot;FORM/Root Panel/Section/Section/&quot;\,&quot;name&quot;:&quot;requestor-panel&quot;\,&quot;parent&quot;:&quot;guide.guideRootPanel.panel-form&quot;}}]}}]}]}}]\,&quot;isValid&quot;:true\,&quot;enabled&quot;:true\,&quot;version&quot;:1\,&quot;script&quot;:&quot;/**\\n\\n * This is a machine-generated code for the rule.\\n * If you modify it in the code editor\, you will not be able to view and edit the rule in the visual editor.\\n */\\n\\nif (this.value == \\&quot;yes\\&quot;) {\\n    guideBridge.resolveNode(\\&quot;requestor-panel\\&quot;).visible = true;\\n}\\n&quot;\,&quot;eventName&quot;:&quot;Value Commit&quot;\,&quot;ruleType&quot;:&quot;&quot;\,&quot;description&quot;:&quot;&quot;},{&quot;nodeName&quot;:&quot;ROOT&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_SCRIPTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;EVENT_CONDITION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;COMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.radiobutton1699959239636&quot;\,&quot;type&quot;:&quot;STRING&quot;\,&quot;name&quot;:&quot;radiobutton1699959239636&quot;}}\,{&quot;nodeName&quot;:&quot;EVENT_AND_COMPARISON_OPERATOR&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;EQUALS_TO&quot;\,&quot;value&quot;:null}}\,{&quot;nodeName&quot;:&quot;PRIMITIVE_EXPRESSION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;STRING_LITERAL&quot;\,&quot;value&quot;:&quot;yes&quot;}}]}\,&quot;nested&quot;:false}\,{&quot;nodeName&quot;:&quot;Then&quot;\,&quot;value&quot;:null}\,{&quot;nodeName&quot;:&quot;BLOCK_STATEMENTS&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;BLOCK_STATEMENT&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;SET_PROPERTY&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;MEMBER_EXPRESSION&quot;\,&quot;items&quot;:[{&quot;nodeName&quot;:&quot;PROPERTY_LIST&quot;\,&quot;value&quot;:&quot;mandatory&quot;}\,{&quot;nodeName&quot;:&quot;of&quot;\,&quot;value&quot;:null}\,{&quot;nodeName&quot;:&quot;COMPONENT&quot;\,&quot;value&quot;:{&quot;id&quot;:&quot;guide.guideRootPanel.panel-form.requestor-panel.requestor-first-name&quot;\,&quot;displayName&quot;:&quot;First Name&quot;\,&quot;type&quot;:&quot;FIELD|TEXT FIELD&quot;\,&quot;isDuplicate&quot;:true\,&quot;displayPath&quot;:&quot;FORM/Root Panel/Section/Section/First Name/&quot;\,&quot;name&quot;:&quot;requestor-first-name&quot;\,&quot;parent&quot;:&quot;guide.guideRootPanel.panel-form.requestor-panel&quot;}}]}\,{&quot;nodeName&quot;:&quot;to&quot;\,&quot;value&quot;:null}\,{&quot;nodeName&quot;:&quot;EXTENDED_EXPRESSION&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;BOOLEAN_LITERAL&quot;\,&quot;choice&quot;:{&quot;nodeName&quot;:&quot;True&quot;\,&quot;value&quot;:null}}}]}}]}]}}]\,&quot;isValid&quot;:true\,&quot;enabled&quot;:true\,&quot;version&quot;:1\,&quot;script&quot;:&quot;/**\\n\\n * This is a machine-generated code for the rule.\\n * If you modify it in the code editor\, you will not be able to view and edit the rule in the visual editor.\\n */\\n\\nif (this.value == \\&quot;yes\\&quot;) {\\n    guideBridge.resolveNode(\\&quot;requestor-first-name\\&quot;).mandatory = true;\\n}\\n&quot;\,&quot;eventName&quot;:&quot;Value Commit&quot;\,&quot;ruleType&quot;:&quot;&quot;\,&quot;description&quot;:&quot;&quot;}]"
                                     jcr:primaryType="nt:unstructured"/>
                             </guideradiobutton>
                             <panel_763782426
@@ -420,14 +415,14 @@
                             </panel_1075981341>
                             <guidebutton
                                 fd:translationIds="\{&quot;jcr:title&quot;:&quot;guideContainer##rootPanel##items##panel_1557572623##items##guidebutton##jcr:title##5315&quot;}"
-                                jcr:lastModified="{Date}2023-11-14T15:45:22.972Z"
-                                jcr:lastModifiedBy="alin.costin@brandwidth.com"
+                                jcr:lastModified="{Date}2023-09-01T12:52:15.024+03:00"
+                                jcr:lastModifiedBy="admin"
                                 jcr:primaryType="nt:unstructured"
                                 jcr:title="SUBMIT INQUIRY"
                                 sling:resourceType="fd/af/components/guidebutton"
                                 dorExclusion="true"
                                 guideNodeClass="guideButton"
-                                name="submit"
+                                name="button1692627526012"
                                 textIsRich="[true,true]"
                                 type="submit">
                                 <fd:rules

@@ -6,9 +6,9 @@
     jcr:uuid="ef663ef4-69b1-4002-a96d-0c8b2ad0e6c7">
     <jcr:content
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T16:15:57.990Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T16:15:57.990Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T16:15:57.990Z"
+        cq:lastReplicated="{Date}2023-11-14T11:49:24.932Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T11:49:24.932Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T16:13:43.230Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
@@ -17,7 +17,7 @@
         cq:lastReplicationAction_scene7="Activate"
         cq:name="dropdown_input_component"
         cq:parentPath="/content/dam/formsanddocuments/fragments"
-        jcr:lastModified="{Date}2023-11-14T16:06:09.071Z"
+        jcr:lastModified="{Date}2023-11-14T10:39:51.833Z"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
         sling:resourceType="fd/fm/af/render"

@@ -6,10 +6,10 @@
     jcr:uuid="957d00a8-80f7-4d5f-b1d4-0cec764113b5">
     <jcr:content
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T16:10:13.583Z"
+        cq:lastReplicated="{Date}2023-11-14T11:04:42.032Z"
         cq:lastReplicated_preview="{Date}2023-10-13T14:49:10.794Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T16:10:13.583Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T16:10:13.583Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T11:04:42.032Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T16:04:57.972Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_preview="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
@@ -20,7 +20,7 @@
         cq:lastReplicationAction_scene7="Activate"
         cq:name="panel_attach_doc"
         cq:parentPath="/content/dam/formsanddocuments/fragments"
-        jcr:lastModified="{Date}2023-11-14T16:06:09.455Z"
+        jcr:lastModified="{Date}2023-11-14T12:09:59.445+02:00"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
         sling:resourceType="fd/fm/af/render"

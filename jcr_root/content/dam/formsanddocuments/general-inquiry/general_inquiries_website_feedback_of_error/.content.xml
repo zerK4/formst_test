@@ -4,16 +4,16 @@
     <jcr:content
         cq:conf="\0"
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T15:47:21.284Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T15:47:21.284Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T15:47:21.284Z"
+        cq:lastReplicated="{Date}2023-11-14T12:50:24.038Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T12:50:24.038Z"
+        cq:lastReplicated_scene7="{Date}2023-11-14T12:50:24.038Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
         cq:lastReplicationAction="Activate"
         cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
-        jcr:lastModified="{Date}2023-11-14T15:46:52.943Z"
+        jcr:lastModified="{Date}2023-11-14T12:48:03.257Z"
         jcr:lastModifiedBy="gl-service"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
@@ -32,10 +32,10 @@
             <it/>
             <nl/>
             <es/>
+            <ko/>
             <zh/>
             <pt/>
             <ja/>
-            <ko/>
         </dictionary>
         <metadata
             cq:conf="/conf/forms"

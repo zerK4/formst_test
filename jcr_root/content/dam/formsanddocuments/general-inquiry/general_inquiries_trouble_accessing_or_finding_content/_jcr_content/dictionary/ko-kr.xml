@@ -88,7 +88,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidetextbox_copy_co##jcr:title##401"
-        sling:message="의도한 시장 응용 분야 설명"/>
+        sling:message="고려하고 있는 마켓 애플리케이션을 설명하세요."/>
     <_x0033_b29951d-a6ef-470e-bad0-56e3ad284e3d
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -108,12 +108,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##20"
-        sling:message="품질"/>
+        sling:message="품질."/>
     <_x0034_adbc261-24d1-4733-bf1a-835b69d77747
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##11"
-        sling:message="정보 시스템"/>
+        sling:message="절연 시스템"/>
     <_x0034_c5e7442-dfec-4297-8a73-490f0b259e4e
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -138,7 +138,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="jcr:title##9973"
-        sling:message="일반 문의 - 컨텐츠 접근 또는 찾기 문제"/>
+        sling:message="콘텐츠에 접속하거나 찾는 문제"/>
     <_x0035_439b27b-c831-47b0-b08e-d1c54ca6bdf9
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -188,7 +188,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##12"
-        sling:message="법무"/>
+        sling:message="법적인"/>
     <_x0036_d1eedc4-5855-454d-8ba8-ce815c7978f4
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -238,7 +238,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##25"
-        sling:message="지속 가능성"/>
+        sling:message="지속가능성에 이르기까지,"/>
     <_x0038_c8c88f8-c37d-4510-864a-6653d0634d6a
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -248,7 +248,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##5"
-        sling:message="디자인"/>
+        sling:message="디자인."/>
     <_x0039_978f4c5-af21-463e-a9b9-591498564259
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -278,7 +278,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##options##3642##1"
-        sling:message="아니요"/>
+        sling:message="No"/>
     <a8994eae-f82d-4308-bcda-63b5609343dd
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -323,7 +323,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guidetextbox##jcr:title##7272"
-        sling:message="제품 이름을 입력하십시오."/>
+        sling:message="제품명을 입력해 주세요"/>
     <c66cea51-632a-4371-a362-087bd8d00e22
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -358,7 +358,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##16"
-        sling:message="기타"/>
+        sling:message="다른"/>
     <dd978633-1a3d-4ee7-8d48-f8706bc1eb67
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"

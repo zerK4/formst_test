@@ -28,7 +28,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidetextbox##jcr:title##7368"
-        sling:message="出现错误的 URL(可选）"/>
+        sling:message="网址 发生错误"/>
     <_x0031_0105bc4-cd2d-47ee-bb25-d8d1e5482dcd
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -43,7 +43,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidetextdraw##_value##3139"
-        sling:message="&lt;p>除非已标记（可选),否则所有字段都是必填字段&amp;nbsp;&lt;/p>&#xa;"/>
+        sling:message="&lt;p>所有字段均为必填字段，除非已标记（可选）&amp;nbsp;&lt;/p>&#xa;"/>
     <_x0032_eee73cd-1efc-469c-adfb-3b011b7a7764
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -93,7 +93,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##submit##jcr:title##7388"
-        sling:message="提交查询"/>
+        sling:message="在线提交问题"/>
     <_x0034_5d82696-c376-4023-b6a6-0127ca138798
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -158,7 +158,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##4572"
-        sling:message="提供 CAPTCHA 以继续。"/>
+        sling:message="提供CAPTCHA以继续。"/>
     <_x0037_41294b7-4eb4-4c49-9310-316e81e4f489
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -168,7 +168,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel##items##guidetextbox_1764868##jcr:title##5895"
-        sling:message="名字"/>
+        sling:message="名"/>
     <_x0038_09bc0eb-25a6-460c-9cb5-2fa5631cd119
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -193,7 +193,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##afformtitle_32862998##_value##5951"
-        sling:message="&lt;p>我们能为您提供什么帮助？&lt;/p>&#xa;"/>
+        sling:message="&lt;p>我们能帮您什么？&lt;/p>&#xa;"/>
     <_x0039_ca7e3e9-73c9-49f3-913d-8e08f77d3216
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -308,7 +308,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##5"
-        sling:message="设计"/>
+        sling:message="设计。"/>
     <df6ad38c-6e41-4895-aa33-e13284df1a59
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -338,7 +338,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidetextbox_3793944##jcr:title##7948"
-        sling:message="错误详情"/>
+        sling:message="错误细节"/>
     <ef8c83ac-5ec3-48aa-97da-f6bc4a42b43c
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -369,4 +369,19 @@
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##20"
         sling:message="质量"/>
+    <_x0035_01b9f73-9912-48e9-9d94-fcce8b3649ef
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##jcr:title##426"
+        sling:message="CAPTCHA"/>
+    <_x0035_35f837d-89f1-4fc9-9f12-e947c431f7b2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##validateExpMessage##260"
+        sling:message="CAPTCHA 无效。请重试。"/>
+    <dae370be-7b8b-45fd-b4c2-e841d425ece4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##2684"
+        sling:message="提供CAPTCHA以继续。"/>
 </jcr:root>

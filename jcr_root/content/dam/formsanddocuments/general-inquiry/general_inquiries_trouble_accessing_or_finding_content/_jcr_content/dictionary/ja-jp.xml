@@ -23,7 +23,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist##mandatoryMessage##3142"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <_x0031_ed43170-360c-4580-a921-8ef0d9fd3ab0
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -53,12 +53,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guideemail##mandatoryMessage##5512"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <_x0032_97458a2-1581-47cd-9120-cfbf8918d690
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist_1957009797##jcr:title##316"
-        sling:message="用途"/>
+        sling:message="アプリケーション"/>
     <_x0032_aec743b-d93f-4d04-9b8a-4c0f13943569
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -88,7 +88,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidetextbox_copy_co##jcr:title##401"
-        sling:message="意図する市場-用途を説明する"/>
+        sling:message="想定している市場・用途を説明する"/>
     <_x0033_b29951d-a6ef-470e-bad0-56e3ad284e3d
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -113,7 +113,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##11"
-        sling:message="情報システム"/>
+        sling:message="断熱システム"/>
     <_x0034_c5e7442-dfec-4297-8a73-490f0b259e4e
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -128,7 +128,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##options##3642##0"
-        sling:message="はい"/>
+        sling:message="はい。"/>
     <_x0035_243facb-a8cb-4b3a-becc-a53f664a20bc
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -138,7 +138,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="jcr:title##9973"
-        sling:message="一般的な質問 - コンテンツへのアクセスまたは検索のトラブル"/>
+        sling:message="コンテンツへのアクセスまたは検索に関する問題"/>
     <_x0035_439b27b-c831-47b0-b08e-d1c54ca6bdf9
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -203,7 +203,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist##placeholderText##8693"
-        sling:message="記入欄"/>
+        sling:message="記入済み"/>
     <_x0037_58de7f2-f5e0-4f38-bfe4-cabff2a8b7f4
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -213,17 +213,17 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guideemail##jcr:title##4426"
-        sling:message="電子メール"/>
+        sling:message="メール"/>
     <_x0037_d5a5a16-d9d7-48c2-be37-6042cbd2f33d
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##submit##jcr:title##6815"
-        sling:message="お問い合わせを送信"/>
+        sling:message="問い合わせを送信"/>
     <_x0037_e83710f-427e-460e-82d1-7a6d1a91c8f7
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guidetextbox_1764868##mandatoryMessage##9322"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <_x0038_3f18768-a1c2-4537-9509-9192cb7f62a5
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -248,7 +248,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##5"
-        sling:message="設計"/>
+        sling:message="設計。"/>
     <_x0039_978f4c5-af21-463e-a9b9-591498564259
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -273,7 +273,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidetextbox_1364004##mandatoryMessage##3718"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <a6a3e8b8-601d-41bd-8709-3af25a0cb85f
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -283,12 +283,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist##jcr:title##5078"
-        sling:message="市場"/>
+        sling:message="マーケット"/>
     <ad8d6bd5-cc34-4ea5-8179-7329d2e1ad87
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##mandatoryMessage##4225"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <b6a261f0-716f-4e78-9bd3-e941ee0a855c
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -308,7 +308,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##13"
-        sling:message="マネジメント/エグゼクティブ"/>
+        sling:message="経営陣/エグゼクティブ"/>
     <c062f280-4133-4d95-bc55-1ec10501ba07
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -328,7 +328,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guidetextbox##mandatoryMessage##8480"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <caace1df-8ae7-4717-b8ca-25c2022db779
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -338,17 +338,17 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guidetextbox_1835554##mandatoryMessage##207"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <cc05cdb0-d50b-4cd2-af6d-301c4a6b4dbc
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidetextbox_1364004##jcr:title##3562"
-        sling:message="会社名"/>
+        sling:message="貴社名"/>
     <d10eb0c1-cfcd-4928-825f-ec03a32e99ed
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##jcr:title##9489"
-        sling:message="ダウのシリコーン製品に関するお問い合わせですか？"/>
+        sling:message="この問い合わせはダウのシリコーン製品に関するものですか？"/>
     <d5085387-361c-4319-a75a-8e88c6228684
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -373,7 +373,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##guidetextbox_1892774##mandatoryMessage##4722"
-        sling:message="このフィールドは必須項目です"/>
+        sling:message="この欄は必須です"/>
     <e93210af-5b46-4c1a-90ac-54227e9ec475
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"

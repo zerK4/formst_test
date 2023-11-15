@@ -4,9 +4,9 @@
     <jcr:content
         cq:conf="\0"
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T16:30:20.194Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T16:30:20.194Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T16:30:20.194Z"
+        cq:lastReplicated="{Date}2023-11-14T13:00:07.343Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T13:00:07.343Z"
+        cq:lastReplicated_scene7="{Date}2023-11-14T13:00:07.343Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
@@ -15,7 +15,8 @@
         cq:lastReplicationAction_scene7="Activate"
         cq:translationJob="[/content/projects/dutch-technical-inquiry/jcr:content/dashboard/gadgets/translationjob]"
         cq:translationStatus="DRAFT"
-        jcr:lastModified="{Date}2023-11-14T16:26:13.729Z"
+        jcr:lastModified="{Date}2023-11-14T12:57:32.095Z"
+        jcr:lastModifiedBy="gl-service"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
         sling:resourceType="fd/fm/af/render"
@@ -27,6 +28,12 @@
             <it/>
             <nl/>
             <en-us/>
+            <ja/>
+            <ko/>
+            <zh/>
+            <pt/>
+            <ko-kr/>
+            <zh-cn/>
         </dictionary>
         <metadata
             cq:conf="/conf/forms"

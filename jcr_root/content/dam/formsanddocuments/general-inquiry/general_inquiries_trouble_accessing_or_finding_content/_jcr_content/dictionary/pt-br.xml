@@ -23,7 +23,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist##mandatoryMessage##3142"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <_x0031_ed43170-360c-4580-a921-8ef0d9fd3ab0
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -53,17 +53,17 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guideemail##mandatoryMessage##5512"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <_x0032_97458a2-1581-47cd-9120-cfbf8918d690
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist_1957009797##jcr:title##316"
-        sling:message="Aplicação"/>
+        sling:message="Aplicações"/>
     <_x0032_aec743b-d93f-4d04-9b8a-4c0f13943569
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##afformtitle##_value##6220"
-        sling:message="&lt;p>Informações sobre o produto&lt;/p>&#xa;"/>
+        sling:message="&lt;p>Informações do Produto&lt;/p>&#xa;"/>
     <_x0032_ba5e28b-7b0c-4e79-80cb-598e44a3d27c
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -88,7 +88,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidetextbox_copy_co##jcr:title##401"
-        sling:message="Explique sua aplicação de mercado pretendida"/>
+        sling:message="Explique a aplicação de mercado pretendida"/>
     <_x0033_b29951d-a6ef-470e-bad0-56e3ad284e3d
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -113,12 +113,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##11"
-        sling:message="Sistemas de informação"/>
+        sling:message="Sistemas de isolamento"/>
     <_x0034_c5e7442-dfec-4297-8a73-490f0b259e4e
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##afformtitle_71327489##_value##2147"
-        sling:message="&lt;p>Informações da empresa&lt;/p>"/>
+        sling:message="&lt;p>Informações sobre a empresa&lt;/p>"/>
     <_x0034_e0fe1b5-e3a4-4fb2-9e75-917cff71f2b8
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -128,7 +128,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##options##3642##0"
-        sling:message="Sim"/>
+        sling:message="Sim."/>
     <_x0035_243facb-a8cb-4b3a-becc-a53f664a20bc
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -138,7 +138,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="jcr:title##9973"
-        sling:message="Consultas gerais - Problemas para acessar ou encontrar conteúdo"/>
+        sling:message="Problemas para acessar ou encontrar conteúdo"/>
     <_x0035_439b27b-c831-47b0-b08e-d1c54ca6bdf9
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -168,7 +168,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##6101"
-        sling:message="Fornecer CAPTCHA para prosseguir."/>
+        sling:message="Forneça CAPTCHA para prosseguir."/>
     <_x0036_09b99c3-385f-4fab-b3bd-268db0595539
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -188,7 +188,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##12"
-        sling:message="Jurídico"/>
+        sling:message="JURÍDICO"/>
     <_x0036_d1eedc4-5855-454d-8ba8-ce815c7978f4
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -218,12 +218,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##submit##jcr:title##6815"
-        sling:message="ENVIAR CONSULTA"/>
+        sling:message="Submeter solicitação"/>
     <_x0037_e83710f-427e-460e-82d1-7a6d1a91c8f7
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guidetextbox_1764868##mandatoryMessage##9322"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <_x0038_3f18768-a1c2-4537-9509-9192cb7f62a5
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -248,7 +248,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##5"
-        sling:message="Projeto"/>
+        sling:message="Projeto."/>
     <_x0039_978f4c5-af21-463e-a9b9-591498564259
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -273,7 +273,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidetextbox_1364004##mandatoryMessage##3718"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <a6a3e8b8-601d-41bd-8709-3af25a0cb85f
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -288,7 +288,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##mandatoryMessage##4225"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <b6a261f0-716f-4e78-9bd3-e941ee0a855c
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -328,7 +328,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guidetextbox##mandatoryMessage##8480"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <caace1df-8ae7-4717-b8ca-25c2022db779
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -338,7 +338,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guidetextbox_1835554##mandatoryMessage##207"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <cc05cdb0-d50b-4cd2-af6d-301c4a6b4dbc
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -373,7 +373,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##guidetextbox_1892774##mandatoryMessage##4722"
-        sling:message="Este campo é obrigatório"/>
+        sling:message="Esse campo é obrigatório"/>
     <e93210af-5b46-4c1a-90ac-54227e9ec475
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -393,7 +393,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##afformtitle_10474416##_value##5100"
-        sling:message="&lt;p>Informações de mercado&lt;/p>"/>
+        sling:message="&lt;p>Informação de mercado&lt;/p>"/>
     <f95df3dd-ced1-4a56-b8c6-8b6d4fc577b6
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"

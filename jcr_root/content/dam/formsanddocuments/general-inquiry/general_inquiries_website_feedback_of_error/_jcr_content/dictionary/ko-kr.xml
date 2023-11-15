@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
-    jcr:language="en-us"
+    jcr:language="ko-kr"
     jcr:mixinTypes="[mix:language]"
     jcr:primaryType="sling:OrderedFolder"
     sling:basename="/content/dam/formsanddocuments/general-inquiry/general_inquiries_website_feedback_of_error/jcr:content/dictionary">
@@ -28,12 +28,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidetextbox##jcr:title##7368"
-        sling:message="오류가 발생한 URL(선택 사항)"/>
+        sling:message="오류가 발생한 URL"/>
     <_x0031_0105bc4-cd2d-47ee-bb25-d8d1e5482dcd
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidedropdownlist##options##9930##4"
-        sling:message="기타"/>
+        sling:message="다른"/>
     <_x0031_ca4425a-3747-47a1-9fe9-8beeddc17614
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -73,7 +73,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##25"
-        sling:message="지속 가능성"/>
+        sling:message="지속가능성에 이르기까지,"/>
     <_x0033_ad95eeb-0778-4639-bb3b-a33f00eb6137
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -118,7 +118,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##16"
-        sling:message="기타"/>
+        sling:message="다른"/>
     <_x0035_e00b7b1-96de-445b-9368-099ad980a2a2
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -128,7 +128,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##12"
-        sling:message="법무"/>
+        sling:message="법적인"/>
     <_x0036_256e8b2-5c42-4c24-82ee-b855da0d2634
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -183,7 +183,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##11"
-        sling:message="정보 시스템"/>
+        sling:message="절연 시스템"/>
     <_x0038_65989d7-98b5-4dc6-a89c-926ba006e7e3
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -308,7 +308,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##5"
-        sling:message="디자인"/>
+        sling:message="디자인."/>
     <df6ad38c-6e41-4895-aa33-e13284df1a59
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -338,7 +338,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidetextbox_3793944##jcr:title##7948"
-        sling:message="오류 세부 정보"/>
+        sling:message="오류 세부 사항"/>
     <ef8c83ac-5ec3-48aa-97da-f6bc4a42b43c
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -368,5 +368,20 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##20"
-        sling:message="품질"/>
+        sling:message="품질."/>
+    <_x0035_01b9f73-9912-48e9-9d94-fcce8b3649ef
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##jcr:title##426"
+        sling:message="캡차"/>
+    <_x0035_35f837d-89f1-4fc9-9f12-e947c431f7b2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##validateExpMessage##260"
+        sling:message="유효하지 않은 CAPTCHA. 다시 시도하십시오."/>
+    <dae370be-7b8b-45fd-b4c2-e841d425ece4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##2684"
+        sling:message="계속하려면 CAPTCHA를 제공하십시오."/>
 </jcr:root>

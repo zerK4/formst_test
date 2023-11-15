@@ -2,6 +2,9 @@
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="sling:OrderedFolder">
     <panel_attach_doc/>
+    <panel_personal_info/>
+    <panel_company_info/>
+    <panel_market_info/>
     <panel_hidden_fields/>
     <hidden_fields_eloqua/>
     <countries_dropdown_fragment/>
@@ -10,6 +13,7 @@
     <market-submarket-application/>
     <eloqua_countries_dropdown_fragment-copy1/>
     <market-submarket-hidden-fields/>
+    <panel_job_function_role/>
     <full-address-fragment/>
     <requestor-information/>
 </jcr:root>

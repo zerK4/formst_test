@@ -6,10 +6,10 @@
     jcr:uuid="72b64bac-8a86-40f4-8c1a-d130bd6eaac7">
     <jcr:content
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T18:08:18.160Z"
+        cq:lastReplicated="{Date}2023-11-14T11:04:42.032Z"
         cq:lastReplicated_preview="{Date}2023-10-13T14:49:10.794Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T18:08:18.160Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T18:08:18.160Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T11:04:42.032Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T16:04:57.482Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_preview="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
@@ -20,7 +20,7 @@
         cq:lastReplicationAction_scene7="Activate"
         cq:name="countries_dropdown_fragment"
         cq:parentPath="/content/dam/formsanddocuments/fragments"
-        jcr:lastModified="{Date}2023-11-14T17:28:00.167Z"
+        jcr:lastModified="{Date}2023-11-14T10:40:39.240Z"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
         sling:resourceType="fd/fm/af/render"

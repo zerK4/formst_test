@@ -88,7 +88,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidetextbox_copy_co##jcr:title##401"
-        sling:message="说明您计划用于哪些市场应用"/>
+        sling:message="请说明一下您所需要的市场应用"/>
     <_x0033_b29951d-a6ef-470e-bad0-56e3ad284e3d
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -123,12 +123,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_copy##items##guidedropdownlist_1220425774##jcr:title##1372"
-        sling:message="子市场"/>
+        sling:message="次级市场"/>
     <_x0035_16c3d4c-6860-40a1-96e6-93f4894b9dc7
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_183586405_copy##items##guideradiobutton_cop##options##3642##0"
-        sling:message="是"/>
+        sling:message="是的。"/>
     <_x0035_243facb-a8cb-4b3a-becc-a53f664a20bc
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -138,7 +138,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="jcr:title##9973"
-        sling:message="一般查询 - 访问或查找内容困难"/>
+        sling:message="访问时问题或查询内容"/>
     <_x0035_439b27b-c831-47b0-b08e-d1c54ca6bdf9
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -218,7 +218,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##submit##jcr:title##6815"
-        sling:message="提交查询"/>
+        sling:message="在线提交问题"/>
     <_x0037_e83710f-427e-460e-82d1-7a6d1a91c8f7
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -248,7 +248,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel_79348325##items##guidedropdownlist_13##options##4666##5"
-        sling:message="设计"/>
+        sling:message="设计。"/>
     <_x0039_978f4c5-af21-463e-a9b9-591498564259
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -378,7 +378,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1858182020##items##panel##items##guidetextbox_1764868##jcr:title##5777"
-        sling:message="名字"/>
+        sling:message="名"/>
     <edc43fca-e11a-4bd1-9bc2-20b5d71f5aa8
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"

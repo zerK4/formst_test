@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
-    jcr:language="en-us"
+    jcr:language="es-es"
     jcr:mixinTypes="[mix:language]"
     jcr:primaryType="sling:OrderedFolder"
     sling:basename="/content/dam/formsanddocuments/general-inquiry/general_inquiries_website_feedback_of_error/jcr:content/dictionary">
@@ -28,12 +28,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidetextbox##jcr:title##7368"
-        sling:message="URL donde se experimenta el error (opcional)"/>
+        sling:message="URL donde se experimenta el error"/>
     <_x0031_0105bc4-cd2d-47ee-bb25-d8d1e5482dcd
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##guidedropdownlist##options##9930##4"
-        sling:message="Otro"/>
+        sling:message="Otros"/>
     <_x0031_ca4425a-3747-47a1-9fe9-8beeddc17614
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -73,7 +73,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##25"
-        sling:message="Sustentabilidad"/>
+        sling:message="¿Sostenibilidad?"/>
     <_x0033_ad95eeb-0778-4639-bb3b-a33f00eb6137
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -93,7 +93,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##submit##jcr:title##7388"
-        sling:message="ENVIAR LA SOLICITUD"/>
+        sling:message="Enviar solicitud"/>
     <_x0034_5d82696-c376-4023-b6a6-0127ca138798
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -113,12 +113,12 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##22"
-        sling:message="Investigación y desarrollo"/>
+        sling:message="Investigación y  desarrollo"/>
     <_x0035_d13214f-5efc-4254-8db3-c828c1ca059c
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##16"
-        sling:message="Otro"/>
+        sling:message="Otros"/>
     <_x0035_e00b7b1-96de-445b-9368-099ad980a2a2
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -128,7 +128,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##12"
-        sling:message="Asuntos legales"/>
+        sling:message="LEGAL"/>
     <_x0036_256e8b2-5c42-4c24-82ee-b855da0d2634
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -183,7 +183,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##11"
-        sling:message="Sistemas de información"/>
+        sling:message="Sistemas de aislamiento"/>
     <_x0038_65989d7-98b5-4dc6-a89c-926ba006e7e3
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -193,7 +193,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##afformtitle_32862998##_value##5951"
-        sling:message="&lt;p>¿Con qué podemos ayudarlo?&lt;/p>&#xa;"/>
+        sling:message="&lt;p>¿Qué podemos ayudarte?&lt;/p>&#xa;"/>
     <_x0039_ca7e3e9-73c9-49f3-913d-8e08f77d3216
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -208,7 +208,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##2"
-        sling:message="Nivel C"/>
+        sling:message="Nivel-C"/>
     <aa8ddeaf-19dd-48e7-8d0b-d1b675442a39
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -328,7 +328,7 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##afformtitle##_value##6777"
-        sling:message="&lt;p>Información personal&lt;/p>&#xa;"/>
+        sling:message="&lt;p>Informacion personal&lt;/p>&#xa;"/>
     <e6aa2526-0eb9-4fdc-86af-1d4c989430f5
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
@@ -368,5 +368,20 @@
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"
         sling:key="guideContainer##rootPanel##items##panel_1930494479##items##panel_388819505##items##guidedropdownlist_13##options##3480##20"
-        sling:message="Calidad"/>
+        sling:message="Calidad."/>
+    <_x0035_01b9f73-9912-48e9-9d94-fcce8b3649ef
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##jcr:title##426"
+        sling:message="CAPTCHA"/>
+    <_x0035_35f837d-89f1-4fc9-9f12-e947c431f7b2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##validateExpMessage##260"
+        sling:message="CAPTCHA no válido. Inténtelo nuevamente."/>
+    <dae370be-7b8b-45fd-b4c2-e841d425ece4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##2684"
+        sling:message="Proporcione CAPTCHA para continuar."/>
 </jcr:root>

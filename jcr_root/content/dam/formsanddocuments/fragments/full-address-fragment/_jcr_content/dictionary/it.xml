@@ -9,31 +9,6 @@
         jcr:primaryType="nt:folder"
         sling:key="jcr:title##8487"
         sling:message="Hidden fields Eloqua"/>
-    <_x0030_7fd23d5-a8dc-4464-a3f3-f087d8535e63
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy##jcr:title##4950"
-        sling:message="Address Line 1 "/>
-    <_x0037_4faa4d8-f319-4179-a8bd-26c7d41681f1
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox##jcr:title##4206"
-        sling:message="Address Line 2 (optional)"/>
-    <_x0034_d3d77f6-3ffe-405a-9462-26e166f2516b
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_1182899976##jcr:title##44"
-        sling:message="Provincia"/>
-    <fea3aa74-7fa4-4f41-b54e-57ebd77d80c1
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_346170149##jcr:title##8339"
-        sling:message="Città"/>
-    <_x0031_6bfcc91-9055-41f6-959a-833425c41ddf
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_20633456##jcr:title##936"
-        sling:message="C.A.P"/>
     <f97d979f-3e2a-44c1-9b05-4fe68d0a9c95
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"

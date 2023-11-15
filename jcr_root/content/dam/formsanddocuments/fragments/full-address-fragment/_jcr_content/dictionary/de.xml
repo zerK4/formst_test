@@ -9,31 +9,6 @@
         jcr:primaryType="nt:folder"
         sling:key="jcr:title##8487"
         sling:message="Hidden fields Eloqua"/>
-    <_x0035_cdc5a31-5b21-4ea4-8682-12663e3bea76
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy##jcr:title##4950"
-        sling:message="Address Line 1 "/>
-    <a9beec6a-af3a-409c-9c8d-0641ce48083e
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox##jcr:title##4206"
-        sling:message="Address Line 2 (optional)"/>
-    <a709254e-b4db-474b-92a8-a7cf76cca9b8
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_1182899976##jcr:title##44"
-        sling:message="Bezirk / Bundesland"/>
-    <bbc5254b-e780-4d17-ad7c-118d461933a6
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_346170149##jcr:title##8339"
-        sling:message="Stadt"/>
-    <_x0034_eb58b66-00dc-4431-abfd-e3af9157ee9b
-        jcr:mixinTypes="[sling:Message]"
-        jcr:primaryType="nt:folder"
-        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_20633456##jcr:title##936"
-        sling:message="Postleitzahl / PLZ"/>
     <_x0033_c3f59d4-4f85-48d2-a801-0d93bedc1735
         jcr:mixinTypes="[sling:Message]"
         jcr:primaryType="nt:folder"

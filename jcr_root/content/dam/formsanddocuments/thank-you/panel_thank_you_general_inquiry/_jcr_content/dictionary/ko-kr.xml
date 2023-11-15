@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="en-us"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <_x0034_51ba41a-3b5d-4c24-a660-0b7c9053284b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="연락처로 돌아가기"/>
+    <ac1af3ca-2060-4757-aaec-ad40726d36a5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="감사합니다. 일반 문의"/>
+    <bd5be16e-19c0-4fd7-84a6-b0d82b04ee81
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>성공!&lt;/p>"/>
+    <ce7cd8e8-3f11-4abc-ae96-180d180272bb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="적응형 양식 제목"/>
+    <f547ac20-36c4-4ce9-b6cf-cd62140d748a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>시간을 내어 &lt;b>{웹 계정 등록 | 웹사이트 피드백 또는 오류 | 품질 보증 또는 콘텐츠 접근 또는 검색에 문제가 | 있는 주문 지원}에 대한 문의를 제출해 주셔서 감사합니다&lt;/b>.&lt;/p>&#xa;&lt;p>귀하의 요청이 접수되었으며 제출 세부 정보가 포함된 확인 이메일이 &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a>으로 전송되었습니다. 48시간 이내에 이메일을 통해 회신을 받으실 수 있습니다.&lt;/p>&#xa;&lt;p>그 동안 다른 질문이 있으시면 &lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot; data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>FAQ&lt;/a>를 확인하거나 Dow.com.kr을 확인해 보십시오!&lt;/p>&#xa;"/>
+</jcr:root>

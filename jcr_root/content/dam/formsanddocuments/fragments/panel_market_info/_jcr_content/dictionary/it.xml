@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="it"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/fragments/panel_market_info/jcr:content/dictionary">
+    <_x0035_e52d480-72dc-48ad-9c0b-4a3b39051065
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##8380"
+        sling:message="Market Application"/>
+    <_x0038_bb0e6ed-80ac-4484-9152-85785fc94c12
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_10474416##_value##7350"
+        sling:message="&lt;p>Market Information&lt;/p>"/>
+    <_x0032_13d669f-ed6f-490b-8237-cdc459bbcd5f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_10474416##jcr:title##1684"
+        sling:message="Adaptive Form Title"/>
+    <_x0030_c0859c0-a8b5-4f59-8056-7ff1577b8d90
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_11##mandatoryMessage##8491"
+        sling:message="This field is required"/>
+    <_x0039_5689882-dbec-4149-a567-10414242d4e7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_11##jcr:title##2128"
+        sling:message="Market"/>
+    <_x0036_35bc505-77f3-4826-86ad-eaa49df05e14
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_11##placeholderText##191"
+        sling:message="Filled Entry"/>
+    <_x0030_777d999-9b50-4f42-8ed1-d9b1274790ad
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_11_1459931244##jcr:title##3309"
+        sling:message="Submarket"/>
+    <_x0035_7978244-9581-4da4-8007-1078f20bac2f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_11_1459931244##placeholderText##5856"
+        sling:message="Filled Entry"/>
+    <_x0036_c2793fb-b71c-42d4-9457-1e1e6d7e5994
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##jcr:title##5146"
+        sling:message="Application"/>
+    <c015bf47-15b6-4458-8dbc-ed945a12cd33
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##placeholderText##7045"
+        sling:message="Please select Application..."/>
+</jcr:root>

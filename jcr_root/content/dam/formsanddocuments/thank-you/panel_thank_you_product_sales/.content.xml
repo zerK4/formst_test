@@ -6,9 +6,9 @@
     jcr:uuid="bb2beb9c-77a6-4a84-b21b-a966a70efbaf">
     <jcr:content
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T10:13:06.245Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T10:13:06.245Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T10:13:06.245Z"
+        cq:lastReplicated="{Date}2023-11-14T12:03:49.270Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T12:03:49.270Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T15:28:55.808Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
@@ -17,7 +17,7 @@
         cq:lastReplicationAction_scene7="Activate"
         cq:name="panel_thank_you_product_sales"
         cq:parentPath="/content/dam/formsanddocuments/thank-you"
-        jcr:lastModified="{Date}2023-11-14T10:09:26.642Z"
+        jcr:lastModified="{Date}2023-11-10T15:14:35.534Z"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
         sling:resourceType="fd/fm/af/render"

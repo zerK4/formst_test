@@ -3,16 +3,16 @@
     jcr:primaryType="dam:Asset">
     <jcr:content
         cq:isDelivered="{Boolean}true"
-        cq:lastReplicated="{Date}2023-11-14T10:12:50.851Z"
-        cq:lastReplicated_publish="{Date}2023-11-14T10:12:50.851Z"
-        cq:lastReplicated_scene7="{Date}2023-11-14T10:12:50.851Z"
+        cq:lastReplicated="{Date}2023-11-14T11:49:24.932Z"
+        cq:lastReplicated_publish="{Date}2023-11-14T11:49:24.932Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T16:13:44.423Z"
         cq:lastReplicatedBy="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
         cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
         cq:lastReplicationAction="Activate"
         cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
-        jcr:lastModified="{Date}2023-11-14T10:10:27.331Z"
+        jcr:lastModified="{Date}2023-11-14T12:19:06.123+02:00"
         jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="dam:AssetContent"
         sling:resourceType="fd/fm/af/render"
@@ -24,6 +24,16 @@
             <de/>
             <nl/>
             <en-us/>
+            <ko/>
+            <zh/>
+            <pt/>
+            <ja/>
+            <es/>
+            <ja-jp/>
+            <ko-kr/>
+            <pt-br/>
+            <es-es/>
+            <zh-cn/>
         </dictionary>
         <metadata
             fd:version="1.1"
