@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="nl"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/fragments/full-address-fragment/jcr:content/dictionary">
+    <_x0039_c82b390-9c39-4718-8272-ada602c42a01
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##8487"
+        sling:message="Full Address Fragment"/>
+    <_x0037_2eb696d-467e-493c-9dc1-b4819b972b28
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_copy##jcr:title##4950"
+        sling:message="Adres regel 1 "/>
+    <d66de5b4-41fe-45c0-81ac-3766a3518ad6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox##jcr:title##4206"
+        sling:message="Adres regel 2 (optioneel)"/>
+    <_x0034_31b7bb7-31cd-4e15-8729-b331aa030146
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_1182899976##jcr:title##44"
+        sling:message="Land / Staat"/>
+    <_x0037_288c91b-4427-48b3-8ba9-ae8a585350cb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_346170149##jcr:title##8339"
+        sling:message="Stad"/>
+    <_x0034_794c589-572e-4bb5-941f-a1c78951ca25
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_copy_20633456##jcr:title##936"
+        sling:message="Postcode"/>
+</jcr:root>

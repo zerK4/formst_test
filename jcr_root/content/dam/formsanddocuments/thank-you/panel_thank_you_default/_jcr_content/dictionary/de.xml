@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="de"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_default/jcr:content/dictionary">
+    <_x0036_d7a3da2-e0fb-4275-93be-21e0ce6b9369
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7150"
+        sling:message="Vielen Dank Default Fragment"/>
+    <_x0037_1fa5b35-6bb3-412b-9bdc-5a45608a3a9e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##_value##7928"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <_x0031_f7bbd80-f3d4-4dd0-acb4-67e5a3925bf2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##jcr:title##9121"
+        sling:message="Adaptive Form Title"/>
+    <cf38702a-3adb-401a-88be-0ed437e20d4f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw##_value##590"
+        sling:message="&lt;p>Wir haben Ihre Anfrage empfangen. Eine Bestatigungsnachricht ist geschickt worden an &lt;a href=&quot;mailto:john.doe.smith@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe.smith@dow.com&lt;/a> mit einer Kopie Ihrer Eingave.&lt;/p>&#xd;&#xa;&lt;p>Falls Sie keine E-Mail verzeichnen konnen, bitte prufen Sie Ihr Spamordner.&lt;/p>&#xd;&#xa;"/>
+    <fe3a5a96-327a-4de9-a5ba-3d6a4f1047f2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton##jcr:title##3846"
+        sling:message="Zuruck zu &quot;Kontaktieren Sie uns&quot;"/>
+</jcr:root>

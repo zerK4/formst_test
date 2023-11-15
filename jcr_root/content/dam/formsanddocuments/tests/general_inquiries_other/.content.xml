@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:fd="http://www.adobe.com/aemfd/fd/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        cq:conf="\0"
+        cq:isDelivered="{Boolean}true"
+        cq:lastReplicated_publish="{Date}2023-11-10T10:34:03.328Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T10:34:03.328Z"
+        cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
+        cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
+        jcr:lastModified="{Date}2023-11-14T13:05:21.560Z"
+        jcr:lastModifiedBy="gl-service"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        sling:resourceType="fd/fm/af/render"
+        guide="1"
+        type="guide">
+        <dictionary jcr:primaryType="nt:unstructured">
+            <en-us/>
+            <es1/>
+            <de/>
+            <fr/>
+            <it/>
+            <es/>
+            <nl/>
+        </dictionary>
+        <metadata
+            cq:conf="/conf/forms"
+            dam:scene7PublishPending="{Boolean}true"
+            fd:version="1.1"
+            jcr:language="en"
+            jcr:primaryType="nt:unstructured"
+            xmp:CreatorTool="AEM Forms AF Wizard"
+            allowedRenderFormat="HTML"
+            author="admin"
+            availableInMobileApp="{Boolean}false"
+            dorTemplateChanged="Boolean"
+            dorType="none"
+            formmodel="formdatamodel"
+            schemaRef="/content/dam/formsanddocuments-fdm/contact-us-data-model"
+            themeRef="/content/dam/formsanddocuments-themes/dow-new-theme"
+            title="General Inquiries - Other"/>
+    </jcr:content>
+</jcr:root>

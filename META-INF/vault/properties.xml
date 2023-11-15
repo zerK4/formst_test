@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FileVault Package Properties</comment>
+<entry key="description"></entry>
+<entry key="generator">org.apache.jackrabbit.vault:3.7.1-T20231005151103-335689a8</entry>
+<entry key="packageType">content</entry>
+<entry key="lastWrappedBy">alin.costin@brandwidth.com</entry>
+<entry key="packageFormatVersion">2</entry>
+<entry key="group">my_packages</entry>
+<entry key="created">2023-11-15T07:38:43.706Z</entry>
+<entry key="lastModifiedBy">alin.costin@brandwidth.com</entry>
+<entry key="buildCount">1</entry>
+<entry key="lastWrapped">2023-11-15T07:38:43.443Z</entry>
+<entry key="version"></entry>
+<entry key="dependencies"></entry>
+<entry key="createdBy">alin.costin@brandwidth.com</entry>
+<entry key="name">sp_test_forms</entry>
+<entry key="lastModified">2023-11-15T07:38:43.443Z</entry>
+</properties>

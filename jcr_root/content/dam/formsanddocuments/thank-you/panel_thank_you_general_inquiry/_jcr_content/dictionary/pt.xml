@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="pt"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <_x0034_51ba41a-3b5d-4c24-a660-0b7c9053284b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="VOLTAR PARA ENTRAR EM CONTATO CONOSCO"/>
+    <ac1af3ca-2060-4757-aaec-ad40726d36a5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="Consulta geral de agradecimento"/>
+    <bd5be16e-19c0-4fd7-84a6-b0d82b04ee81
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>Sucesso!&lt;/p>"/>
+    <ce7cd8e8-3f11-4abc-ae96-180d180272bb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="Título do formulário adaptativo"/>
+    <f547ac20-36c4-4ce9-b6cf-cd62140d748a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>Obrigado por dedicar seu tempo para enviar uma consulta sobre &lt;b>{registro de conta da web | um feedback do site ou garantia de | qualidade de erro ou suporte de pedido | tendo problemas para acessar ou encontrar conteúdo}&lt;/b>.&lt;/p>&#xa;&lt;p>Recebemos sua solicitação e um e-mail de confirmação foi enviado para &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> com os detalhes do envio. Você pode esperar receber informações nossas por e-mail dentro de 48 horas.&lt;/p>&#xa;&lt;p>Enquanto isso, consulte as &lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot; data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>&lt;/a> perguntas frequentes se tiver outras dúvidas ou confira mais informações no site Dow.com!&lt;/p>&#xa;"/>
+</jcr:root>

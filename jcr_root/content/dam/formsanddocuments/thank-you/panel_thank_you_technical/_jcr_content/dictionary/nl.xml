@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="nl"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_technical/jcr:content/dictionary">
+    <_x0038_cde9048-fc3d-49e5-992b-ba612d6719a1
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##5026"
+        sling:message="Thank you Technical"/>
+    <_x0035_a220467-d28a-4e37-8e56-3634297fd07d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4355"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <fbc34f0e-fc45-4031-98d8-c1b7410e38f4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##3884"
+        sling:message="Adaptive Form Title"/>
+    <a728ecb7-fd61-45c5-aff3-ed6d1ffb4100
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##338"
+        sling:message="&lt;p>Bedankt voor het indienen van een aanvraag voor technische hulp bij Dow-producten.&lt;/p>&#xd;&#xa;&lt;p> We hebben uw verzoek ontvangen en er is een bevestigingsmail verzonden naar  &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> met de details van uw verzoek. U kunt binnen 48 uur een reactie van ons verwachten per e-mail.&#xa;&lt;/p>&#xd;&#xa;"/>
+    <_x0036_6fe6f4d-dd4c-4cca-a3fd-1c7e40b51549
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##1836"
+        sling:message="Terug naar Neem contact op"/>
+</jcr:root>

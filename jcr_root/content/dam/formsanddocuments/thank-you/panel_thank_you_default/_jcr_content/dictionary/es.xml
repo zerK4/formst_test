@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="es"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_default/jcr:content/dictionary">
+    <cc37e567-eeba-4fe3-9a26-4669c31f0e78
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7150"
+        sling:message="Gracias Fragmento predeterminado"/>
+    <_x0039_83fa804-558c-4b68-ae8b-39eb6ebbc9fa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##_value##7928"
+        sling:message="&lt;p>¡Éxito!&lt;/p>"/>
+    <f2201da8-b374-4a89-a35e-70c889887f9b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##jcr:title##9121"
+        sling:message="Título del formulario adaptable"/>
+    <a60337fc-6b0e-4326-9ed2-045cfe324cd4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw##_value##590"
+        sling:message="&lt;p>Hemos recibido su solicitud. Se ha enviado un correo electrónico de confirmación a &lt;a href=&quot;mailto:john.doe.smith@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe.smith@dow.com&lt;/a> con una copia de su envío.&lt;/p>&#xd;&#xa;&lt;p>Si no ves ningún correo electrónico, revisa tu carpeta de correo no deseado.&lt;/p>&#xd;&#xa;"/>
+    <_x0032_44daeaa-4d7e-47de-ab62-e54d9ea54b16
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton##jcr:title##3846"
+        sling:message="VOLVER A CONTACTO"/>
+    <_x0034_12016f3-371d-4f47-8849-54a678356ce0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton##jcr:title##3846"
+        sling:message="VOLVER A CONTACTO"/>
+    <_x0037_ef49298-7e07-4e13-ad43-05e28c464133
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7150"
+        sling:message="Gracias Fragmento por defecto"/>
+    <_x0037_f34629f-6297-4285-a71f-d44adb8b9447
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##_value##7928"
+        sling:message="&lt;p>¡Éxito!&lt;/p>"/>
+    <aa4db373-0f60-4829-9d52-fdbf1f2bd430
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw##_value##590"
+        sling:message="&lt;p>Hemos recibido su solicitud. Se ha enviado un correo electrónico de confirmación a &lt;a href=&quot;mailto:john.doe.smith@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe.smith@dow.com&lt;/a> con una copia de su presentación.&lt;/p>&#xa;&lt;p>Si no ve ningún correo electrónico, revise su carpeta de correo no deseado.&lt;/p>&#xa;"/>
+    <c131930e-0cab-41aa-b3e9-83a916cc6680
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##jcr:title##9121"
+        sling:message="Título del formulario adaptable"/>
+</jcr:root>

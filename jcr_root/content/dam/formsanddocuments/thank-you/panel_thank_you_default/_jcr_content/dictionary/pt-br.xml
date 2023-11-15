@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="pt-br"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_default/jcr:content/dictionary">
+    <_x0039_227e00f-04b8-425b-8a81-cda9fb0e8212
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7150"
+        sling:message="Thank you Default Fragment"/>
+    <fde0dca5-da55-44a4-b423-755155d482db
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##_value##7928"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <_x0035_f555f21-3d59-41dc-8465-05f5c7b4b015
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##jcr:title##9121"
+        sling:message="Adaptive Form Title"/>
+    <aacf3ba1-9f76-4f22-9b52-eb13e5c97c30
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw##_value##590"
+        sling:message="&lt;p>We have received your request. A confirmation email has been sent to &lt;a href=&quot;mailto:john.doe.smith@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe.smith@dow.com&lt;/a> with a copy of your submission.&lt;/p>&#xd;&#xa;&lt;p>If you don't see any email, please check your junk folder.&lt;/p>&#xd;&#xa;"/>
+    <b1079de4-97b6-4003-873f-de0e06d0c0e3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton##jcr:title##3846"
+        sling:message="BACK TO CONTACT US"/>
+</jcr:root>

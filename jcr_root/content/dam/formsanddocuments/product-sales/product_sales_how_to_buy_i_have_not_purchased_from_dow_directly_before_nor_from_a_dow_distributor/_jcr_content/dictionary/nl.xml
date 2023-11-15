@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="nl"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/product-sales/product_sales_how_to_buy_i_have_not_purchased_from_dow_directly_before_nor_from_a_dow_distributor/jcr:content/dictionary">
+    <_x0037_fcdba01-41a8-46f4-aa71-7b79957b812b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7542"
+        sling:message="Vragen over productverkoop - How to Buy- I have not purchased from Dow directly before, nor from a Dow distributor"/>
+    <bbf9739a-eba2-485a-80f1-f6e809c6435a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##thankYouMessage##8368"
+        sling:message="Bedankt voor het indienen van uw verzoek."/>
+    <abe2c2e5-bb5e-48b1-9da8-fc40bf45b16c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##jcr:title##8311"
+        sling:message="Root Panel"/>
+    <_x0034_dc874be-273b-41c3-83b8-51a5dd7c365d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##jcr:title##6081"
+        sling:message="Section"/>
+    <_x0032_b187835-dc79-4057-acca-2eb7114bbd3b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextdraw##_value##1583"
+        sling:message="&lt;p>Alle velden zijn verplicht tenzij gemarkeerd (optioneel)&lt;/p>&#xd;&#xa;"/>
+    <d6c9fb04-ec33-455f-a67d-e20098e30f08
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton_cop##mandatoryMessage##4559"
+        sling:message="Dit is een verplicht veld"/>
+    <c8f0e3e4-e5b2-415c-bb9c-d10b18eb6f87
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton_cop##jcr:title##4169"
+        sling:message="Heeft u al eerder rechtstreeks bij Dow gekocht?"/>
+    <c3aad49e-dc5d-4bda-a4fa-71d1256f220f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton_cop##options##2083##0"
+        sling:message="Ja"/>
+    <a39526f0-6578-4e2f-a64e-db1169b150dc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton_cop##options##2083##1"
+        sling:message="Nee"/>
+    <fbe5ec14-90bf-4eda-b853-6c271f653fe0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton##jcr:title##6771"
+        sling:message="Heeft u ooit eerder bij een Dow-distributeur gekocht?"/>
+    <_x0035_d127ce7-afb4-485a-a014-519fb0cfacaf
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton##options##545##0"
+        sling:message="Ja"/>
+    <_x0034_4c01790-1aa7-4c8f-895f-a0681afcc41a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton##options##545##1"
+        sling:message="Nee"/>
+    <cd197cd6-e7c2-4664-84eb-010452cc3769
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton##options##4622##0"
+        sling:message="Ja"/>
+    <a1010976-6349-42b4-b227-8c5627dead84
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideradiobutton##options##4622##1"
+        sling:message="Nee"/>
+    <_x0031_911c4b4-ba2d-4fa1-b0b5-a591ef89ed8b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##jcr:title##5839"
+        sling:message="Section"/>
+    <_x0032_308af8f-98d5-4ff4-a081-e5925a8e21c4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##afformtitle##_value##9340"
+        sling:message="&lt;p>Productinformatie&lt;/p>&#xd;&#xa;"/>
+    <cdb67e47-6f2d-4a56-9330-4476ff51e061
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##afformtitle##jcr:title##2962"
+        sling:message="Adaptive Form Title"/>
+    <d857b818-8cba-4706-81f6-5ad94a25ecaa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guidetextbox##mandatoryMessage##1518"
+        sling:message="Dit is een verplicht veld"/>
+    <_x0030_b8eb57e-f3e6-4981-8377-0a4b38be0eee
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guidetextbox##jcr:title##8002"
+        sling:message="Voer een productnaam in"/>
+    <_x0039_495a352-d2d8-4540-9a1e-87cdea160439
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton##mandatoryMessage##4494"
+        sling:message="Dit is een verplicht veld"/>
+    <f330d6bc-29b3-4304-a32f-26b4dae32a40
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton##jcr:title##1663"
+        sling:message="Heeft uw verzoek betrekking op een Dow siliconen product?"/>
+    <_x0032_e7a1042-b759-4c48-8d86-f3d8fd7ef1ff
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton##options##2198##0"
+        sling:message="Ja"/>
+    <_x0039_bdb3ca6-5390-4236-ad50-a0f501d94114
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton##options##2198##1"
+        sling:message="Nee"/>
+    <_x0031_7a454b7-6e1a-415f-a130-81a23471f644
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton_cop##mandatoryMessage##504"
+        sling:message="Dit is een verplicht veld"/>
+    <_x0033_926f457-b3a3-436b-9350-16fabe38f9f1
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton_cop##jcr:title##1706"
+        sling:message="Heeft uw verzoek betrekking op een Dow siliconen product?"/>
+    <d5bb2605-7a0a-4001-88ec-cf2d7d30a9c6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton_cop##options##2011##0"
+        sling:message="Ja"/>
+    <b341e190-703a-421f-b3d3-0b0cd5e3cd9c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton_cop##options##2011##1"
+        sling:message="Nee"/>
+    <e018fbdc-2b49-4523-aebc-b0d32b7c6b20
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton_cop##options##8926##0"
+        sling:message="Ja"/>
+    <_x0035_c1d5579-8077-41dc-9796-588668a160e4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_183586405_copy##items##guideradiobutton_cop##options##8926##1"
+        sling:message="Nee"/>
+    <_x0035_413f179-c539-4512-9af1-9825ef673538
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##afformtitle_10474416##_value##1528"
+        sling:message="&lt;p>Marktinformatie&lt;/p>"/>
+    <_x0036_fd6a5c4-1055-452b-a95a-373026edc1d5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##afformtitle_10474416##jcr:title##539"
+        sling:message="Adaptive Form Title"/>
+    <_x0031_63411c2-19f0-4772-811c-8cebe4cd9019
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##jcr:title##9361"
+        sling:message="Section"/>
+    <_x0037_8924979-32da-45ba-8660-b124cdbbb078
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist##mandatoryMessage##1473"
+        sling:message="Dit is een verplicht veld"/>
+    <d35b8232-6376-4e1d-95d1-e11dc226672e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist##jcr:title##7315"
+        sling:message="Markt"/>
+    <_x0032_73c3be5-37d5-459d-b76a-5f3491d33978
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist##placeholderText##6044"
+        sling:message="Ingevuld veld"/>
+    <fa523c5c-c948-4f47-8ff4-bec4344c061c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidetextbox_copy_co##jcr:title##4223"
+        sling:message="Explain your intended Market-Application"/>
+    <_x0030_f7f2283-db1e-4b09-90e5-447ca6cc3ecf
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist_1220425774##jcr:title##1841"
+        sling:message="Deelmarkt"/>
+    <_x0032_4996e69-6d90-43de-9883-0e01aa6e28c5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist_1220425774##placeholderText##3288"
+        sling:message="Ingevuld veld"/>
+    <dd537490-b02b-491b-95b1-0e123b924db1
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist_1957009797##jcr:title##731"
+        sling:message="Application"/>
+    <_x0030_1b70f77-f566-4f35-89fb-6e0b08c2f5ee
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy##items##guidedropdownlist_1957009797##placeholderText##5078"
+        sling:message="Selecteer uw applicatie..."/>
+    <af3088bf-907c-43a2-ae72-a0ca4fb4452a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy_1280831499##jcr:title##6769"
+        sling:message="Section"/>
+    <d0a33e01-d033-4984-9e56-31ea56a171ab
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##afformtitle_15404800##_value##6878"
+        sling:message="&lt;p>Persoonlijke informatie&lt;/p>&#xd;&#xa;"/>
+    <_x0031_42c2ee5-15c1-4c95-83a7-5fd336df8bd7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##afformtitle_15404800##jcr:title##8065"
+        sling:message="Adaptive Form Title"/>
+    <_x0035_51e7de7-f0da-4516-973c-766cd2b14551
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_1764868##mandatoryMessage##6375"
+        sling:message="Dit is een verplicht veld"/>
+    <e76cede9-8aed-4b47-a05d-44841d531584
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_1764868##jcr:title##4758"
+        sling:message="Voornaam"/>
+    <_x0036_6292866-cbf6-41e1-9700-93038ee57cb5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_1835554##mandatoryMessage##7069"
+        sling:message="Dit is een verplicht veld"/>
+    <_x0037_40efe9c-ef85-42b6-8fc8-f957ea38a9f6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_1835554##jcr:title##3589"
+        sling:message="Familie naam"/>
+    <e4c68ace-8cfe-4da6-9f35-843e5a1fb970
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideemail##mandatoryMessage##9662"
+        sling:message="Dit is een verplicht veld"/>
+    <_x0037_27498f3-3cc9-4779-9ee7-f63daf870866
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guideemail##jcr:title##2354"
+        sling:message="Email"/>
+    <_x0033_effd554-b2ec-4a34-a394-fd10a0a174aa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetelephone_copy_##jcr:title##2172"
+        sling:message="Telefoon (optioneel)"/>
+    <_x0032_e7ec131-adf8-4064-aca9-e3fd1a5e3890
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetelephone_copy_##placeholderText##9580"
+        sling:message="+447333333333"/>
+    <ac2dbd93-4b46-4eea-8c91-022b25b8e199
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetelephone_copy_##validatePictureClauseMessage##264"
+        sling:message="Onjuist formaat: Begin met +"/>
+    <_x0038_bc28ba2-b3e5-406b-ad42-47088bb8277b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_70##jcr:title##6846"
+        sling:message="Contactvoorkeur (optioneel)"/>
+    <_x0037_f323f80-a5f8-4293-9436-6a454da32fd2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_70##options##4217##0"
+        sling:message="Email"/>
+    <e5a9e114-e109-48ec-a92d-93c818335b97
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_70##options##4217##1"
+        sling:message="Telefoon"/>
+    <_x0034_0f227cb-bce3-466b-b0ba-7dae230ccfc0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_70##placeholderText##5168"
+        sling:message=" "/>
+    <_x0036_3d919bc-a675-4584-a8f0-2b4f18e492f0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##afformtitle_71327489##_value##2602"
+        sling:message="&lt;p>Bedrijfsinformatie&lt;/p>"/>
+    <a389d5b9-80f5-432f-85e3-eff2590f9de6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##afformtitle_71327489##jcr:title##8186"
+        sling:message="Adaptive Form Title"/>
+    <_x0036_2e8d538-ea93-424a-8a06-d18da5b36270
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_1364004##mandatoryMessage##5377"
+        sling:message="Dit is een verplicht veld"/>
+    <_x0035_ce7eb05-2a2f-4c29-b22e-84ea2c69f9df
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_1364004##jcr:title##5209"
+        sling:message="Bedrijfsnaam"/>
+    <_x0032_0c84906-39de-4abe-8425-9f811e538607
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_copy_912792903##jcr:title##9160"
+        sling:message="Section"/>
+    <f7ff97ac-94ff-46be-a0a2-a7519c531e9b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##jcr:title##5694"
+        sling:message="Functie (optioneel)"/>
+    <_x0034_6f85c43-9c45-4047-a3f7-11d9e1a0d1ea
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##0"
+        sling:message="Administratie"/>
+    <b4d115c8-30be-44ac-a425-1fd849dfc4c4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##1"
+        sling:message="Architect / Designer"/>
+    <_x0039_ff0fad6-888e-4db9-9454-28b98254e80e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##2"
+        sling:message="Zakelijke ontwikkeling"/>
+    <cce3fd5e-e97a-4257-8b5d-160c8b27ff89
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##3"
+        sling:message="Consultant"/>
+    <ad85858b-ea5c-40c4-bf83-6856646ce46f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##4"
+        sling:message="Klantenservice"/>
+    <c21cdd1d-e0fb-4d4c-a918-d4fad4a4d66c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##5"
+        sling:message="Design"/>
+    <cf7868bd-bfaa-46ad-addf-25062bd6c10b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##6"
+        sling:message="Student / Docent "/>
+    <e2333e02-3187-41c3-a5df-39852e39be8d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##7"
+        sling:message="Engineering"/>
+    <_x0033_740866f-cb12-47b4-9ff5-bba1f146c489
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##8"
+        sling:message="Facilitaire dienstverlening&#xa;"/>
+    <ffa36b71-c325-428b-ae29-0da7f92a97cb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##9"
+        sling:message="Financiën / Accounting"/>
+    <_x0031_36b0e48-4ab3-4726-ae18-c5d6779b6396
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##10"
+        sling:message="Human Resources"/>
+    <_x0033_c129054-56b6-4b07-8f06-fe731d994e43
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##11"
+        sling:message="Informatie Systemen"/>
+    <_x0035_a3e5eab-6027-43e2-9427-5924075af8cc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##12"
+        sling:message="Legal"/>
+    <f175f853-6a56-40a7-b626-614e94b52601
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##13"
+        sling:message="Management / Leidinggevend"/>
+    <_x0030_0109429-6ae7-46e6-af5e-97afdd62cb0a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##14"
+        sling:message="Productie/ Operations"/>
+    <_x0030_9788fd1-27d7-479e-ac94-8ddf8704c18a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##15"
+        sling:message="Marketing"/>
+    <d1bad602-cdac-498f-872b-302d5228a901
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##16"
+        sling:message="Marketing &amp; Zakelijke ontwikkeling"/>
+    <_x0033_549682f-9d2e-4170-a443-5f20c8edce5c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##17"
+        sling:message="Other"/>
+    <_x0037_adb3dfb-7d3b-4218-9836-310261513bd9
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##18"
+        sling:message="Project Management"/>
+    <_x0038_f0785df-6679-4f4f-bbf2-c45d176cc0f4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##19"
+        sling:message="Public Relations / Communicatie"/>
+    <f9e3ab8f-b128-4b4b-bce5-f96077911d3b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##20"
+        sling:message="Inkoop"/>
+    <_x0032_1307db3-93b1-4ddf-8f43-fe217feae670
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##21"
+        sling:message="Inkoop / Supply chain"/>
+    <fb07f083-52cb-4f25-b223-4cb4ca4fbd29
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##22"
+        sling:message="Kwaliteit"/>
+    <_x0033_2f5b7e2-1d14-44b2-a031-106194ee72fa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##23"
+        sling:message="Regelgeving  / EH&amp;S"/>
+    <_x0034_c1564a8-6b87-4474-a6af-60de572a649f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##24"
+        sling:message="Research &amp; Development"/>
+    <_x0032_5cc4335-19a2-4ac6-a500-3a8ad05a895b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##25"
+        sling:message="Sales"/>
+    <e3e46538-059f-4db4-9c9b-3e601df37fb0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##26"
+        sling:message="Supply Chain/ Logistiek"/>
+    <ad619736-c939-47c0-b0be-094c47fca7d8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##27"
+        sling:message="Duurzaamheid"/>
+    <_x0033_ebb4b57-34c0-4323-b520-082bf96b4bb6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##options##5968##28"
+        sling:message="Technisch/ Toepassingsondersteuning"/>
+    <_x0034_6bc7a80-b9b0-4de1-b99d-db5d6f49d0d3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidedropdownlist_13##placeholderText##8302"
+        sling:message=" "/>
+    <_x0036_bb323db-bf24-42bf-a226-2eafbec7bf7f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_245963411_copy##jcr:title##2841"
+        sling:message="Section"/>
+    <_x0032_566ca24-73bc-4c3b-8ab7-12088a703e4b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##guidetextbox_copy##jcr:title##3836"
+        sling:message="Aanvraagcode"/>
+    <_x0036_8e47b44-ecbb-4dd3-b0a5-cab3ccdc8f54
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##panel_213927824##jcr:title##5830"
+        sling:message="Section"/>
+    <_x0036_5ec7eb4-ecf8-4bd0-83cc-7fe937895f08
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##submit##jcr:title##6371"
+        sling:message="Verzoek indienen"/>
+    <_x0037_5b81295-c272-4b04-aeed-f68967323cd9
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1797974772_cop##items##nextitemnav_copy##jcr:title##442"
+        sling:message="Controleren"/>
+    <_x0030_d491ee9-5d14-4f38-9ffc-2649cebe4bf7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##jcr:title##303"
+        sling:message="Section"/>
+    <_x0035_2d488e1-effa-448d-b239-443f086c2a6d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##jcr:title##5088"
+        sling:message="CAPTCHA"/>
+    <e9b79eb9-1f8e-4658-94e3-543a544b1882
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##validateExpMessage##4923"
+        sling:message="Onjuiste Captcha."/>
+    <f50cd522-1b3c-49e6-8f4e-6fd9c078171f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##5108"
+        sling:message="Geef Captcha op om door te gaan."/>
+</jcr:root>

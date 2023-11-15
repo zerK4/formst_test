@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:vlt="http://www.day.com/jcr/vault/1.0"
+    jcr:created="{Date}2023-11-15T07:38:43.443Z"
+    jcr:createdBy="alin.costin@brandwidth.com"
+    jcr:description="\0"
+    jcr:lastModified="{Date}2023-11-15T07:38:43.443Z"
+    jcr:lastModifiedBy="alin.costin@brandwidth.com"
+    jcr:primaryType="vlt:PackageDefinition"
+    buildCount="1"
+    builtWith="Adobe Experience Manager-2023.11.14227.20231108T162349Z, aem-guides-2023.9.0.359, forms-2023.10.25.00"
+    group="my_packages"
+    lastUnwrapped="{Date}2023-11-15T07:38:43.443Z"
+    lastUnwrappedBy="alin.costin@brandwidth.com"
+    lastWrapped="{Date}2023-11-15T07:38:43.443Z"
+    lastWrappedBy="alin.costin@brandwidth.com"
+    name="sp_test_forms"
+    version="\0">
+    <filter jcr:primaryType="nt:unstructured">
+        <f0
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            propertyRules="[]"
+            root="/content/forms"
+            rules="[]"/>
+        <f1
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            propertyRules="[]"
+            root="/content/dam/formsanddocuments"
+            rules="[]"/>
+    </filter>
+</jcr:root>

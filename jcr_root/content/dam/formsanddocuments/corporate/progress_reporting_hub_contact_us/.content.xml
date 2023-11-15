@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:fd="http://www.adobe.com/aemfd/fd/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        cq:conf="\0"
+        cq:isDelivered="{Boolean}true"
+        cq:lastReplicated="{Date}2023-11-07T13:49:06.162Z"
+        cq:lastReplicated_publish="{Date}2023-11-07T13:49:06.162Z"
+        cq:lastReplicated_scene7="{Date}2023-11-07T13:49:06.162Z"
+        cq:lastReplicatedBy="vpislaru@dow.com"
+        cq:lastReplicatedBy_publish="vpislaru@dow.com"
+        cq:lastReplicatedBy_scene7="vpislaru@dow.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
+        jcr:lastModified="{Date}2023-11-07T13:47:50.055Z"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        sling:resourceType="fd/fm/af/render"
+        guide="1"
+        type="guide">
+        <metadata
+            cq:conf="/conf/forms"
+            fd:version="1.1"
+            jcr:language="en"
+            jcr:primaryType="nt:unstructured"
+            xmp:CreatorTool="AEM Forms AF Wizard"
+            allowedRenderFormat="HTML"
+            author="admin"
+            availableInMobileApp="{Boolean}false"
+            dorTemplateChanged="Boolean"
+            dorType="none"
+            formmodel="formdatamodel"
+            schemaRef="/content/dam/formsanddocuments-fdm/eloqua-data-model"
+            themeRef="/content/dam/formsanddocuments-themes/dow-new-theme"
+            title="Progress Reporting Hub - Contact Us"/>
+    </jcr:content>
+</jcr:root>

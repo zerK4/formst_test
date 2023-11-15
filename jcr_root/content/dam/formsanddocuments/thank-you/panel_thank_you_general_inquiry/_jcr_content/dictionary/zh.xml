@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="zh"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <_x0034_51ba41a-3b5d-4c24-a660-0b7c9053284b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="返回联系我们"/>
+    <ac1af3ca-2060-4757-aaec-ad40726d36a5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="感谢一般咨询"/>
+    <bd5be16e-19c0-4fd7-84a6-b0d82b04ee81
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>成功！&lt;/p>"/>
+    <ce7cd8e8-3f11-4abc-ae96-180d180272bb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="自适应表标题"/>
+    <f547ac20-36c4-4ce9-b6cf-cd62140d748a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>感谢您抽空提交有关 &lt;b>{web 账户注册|、网站反馈或错误|质量保证或订单支持的咨询，|该咨询将影响访问或查找内容}&lt;/b>。&lt;/p>&#xa;&lt;p>我们已收到您的请求，并已向 &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> 发送一封确认电子邮件，其中包含提交详情。您预计会在 48 小时内通过电子邮件回复我们。&lt;/p>&#xa;&lt;p>同时，如果您有其他问题，请查看&lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot; data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>常见问答&lt;/a>，或查看更多 Dow.com!&lt;/p>&#xa;"/>
+</jcr:root>

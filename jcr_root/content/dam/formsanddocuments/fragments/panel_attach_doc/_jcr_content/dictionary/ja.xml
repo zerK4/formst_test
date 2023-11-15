@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="ja"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/fragments/panel_attach_doc/jcr:content/dictionary">
+    <f5f7e87c-f81a-4ae4-ae81-7ef23c118b1b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##6354"
+        sling:message="Attach Document"/>
+    <_x0039_5b9ea86-b3a6-490f-afe2-b1f7f6389388
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidefileupload##buttonText##4850"
+        sling:message="Attach Document"/>
+    <_x0032_b7c2c8e-076f-4bd4-8b6f-3a8c9a85cdf4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_813036##_value##4331"
+        sling:message="&lt;p>&lt;b>Supported file types:&amp;nbsp;&lt;/b>.doc(x), .ppt(x), xls(x), .jpg, .gif, .png, .pdf, .zip&lt;/p>&#xd;&#xa;"/>
+    <_x0036_4372cc0-f66a-4c31-84f0-5cac35763553
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_648756##_value##1662"
+        sling:message="&lt;p>&lt;b>Size limit&lt;/b>: 8 MB(Note: You can only add one file per submission, If multiple attachments are needed, please place in a single .zip file before attaching.)&lt;/p>"/>
+    <_x0030_80b4d13-35c9-468a-922b-a19ac4ab5d46
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##6354"
+        sling:message="ドキュメントを添付する"/>
+    <ad66be32-98ab-487c-b496-15c6c7662201
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_648756##_value##1662"
+        sling:message="&lt;p>&lt;b>サイズ制限&lt;/b> 8 MB(注:1つの提出につき1つのファイルしか追加できません。複数の添付ファイルが必要な場合は、添付する前に単一の.zipファイルに配置してください。）&lt;/p>"/>
+    <c6cc5985-a669-47d6-b0a0-cfb86b850ad0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidefileupload##buttonText##4850"
+        sling:message="ドキュメントを添付する"/>
+    <c717d802-29b5-48dd-9510-7286e18ab195
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_813036##_value##4331"
+        sling:message="&lt;p>&lt;b>サポートされるファイルタイプ：&amp;nbsp;&lt;/b>.doc(x)、.ppt(x)、xls(x)、.jpg、.gif、.png、.pdf、.zip&lt;/p>&#xa;"/>
+</jcr:root>

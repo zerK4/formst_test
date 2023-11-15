@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="fr"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_technical/jcr:content/dictionary">
+    <_x0033_53bb8d8-f4e2-4abf-85fd-661d02376359
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##5026"
+        sling:message="Merci Technique"/>
+    <_x0030_ee21199-d75e-4a7e-b3fb-d3f169184e88
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4355"
+        sling:message="&lt;p>Succès !&lt;/p>"/>
+    <_x0035_fe5d393-0ceb-48c9-8557-a86fd079f507
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##3884"
+        sling:message="Titre du Formulaire Adaptatif"/>
+    <_x0032_be04513-a1b3-43c7-84d2-948690ba5e5b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##338"
+        sling:message="&lt;p>Merci d'avoir soumis une demande d'aide technique pour&#xa;      les produits Dow&lt;/p>&#xd;&#xa;      &lt;p>Nous avons bien reçu votre demande, et un e-mail de confirmation a été envoyé à &lt;a&#xa;      href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a>&#xa;      avec les détails de votre soumission. Vous pouvez vous attendre à recevoir une réponse par&#xa;      e-mail dans les 48 heures.&lt;/p>&#xd;&#xa;    "/>
+    <f17607be-b444-4e2b-a911-efdd76f0f57b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##1836"
+        sling:message="RETOUR À LA PAGE DE CONTACT"/>
+</jcr:root>

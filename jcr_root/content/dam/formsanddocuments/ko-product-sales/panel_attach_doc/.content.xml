@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:fd="http://www.adobe.com/aemfd/fd/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ae49b6d1-6a6f-42f6-b8bb-b02f7322dff8">
+    <jcr:content
+        cq:isDelivered="{Boolean}true"
+        cq:lastReplicated_preview="{Date}2023-10-13T14:49:10.794Z"
+        cq:lastReplicated_publish="{Date}2023-11-08T09:58:29.859Z"
+        cq:lastReplicated_scene7="{Date}2023-11-08T09:58:29.859Z"
+        cq:lastReplicatedBy_preview="alin.costin@brandwidth.com"
+        cq:lastReplicatedBy_publish="vpislaru@dow.com"
+        cq:lastReplicatedBy_scene7="vpislaru@dow.com"
+        cq:lastReplicationAction_preview="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
+        cq:name="panel_attach_doc"
+        cq:parentPath="/content/dam/formsanddocuments/fragments"
+        jcr:lastModified="{Date}2023-11-13T11:49:30.284Z"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        sling:resourceType="fd/fm/af/render"
+        affragment="1"
+        type="affragment">
+        <dictionary jcr:primaryType="nt:unstructured">
+            <en-us/>
+            <fr/>
+            <pt-br/>
+            <es/>
+            <de/>
+            <it/>
+            <nl/>
+            <zh-tw/>
+            <ko-kr/>
+            <ja/>
+        </dictionary>
+        <metadata
+            dam:scene7PublishPending="{Boolean}true"
+            fd:version="1.1"
+            jcr:primaryType="nt:unstructured"
+            allowedRenderFormat="HTML"
+            author="admin"
+            formmodel="formdatamodel"
+            fragmentModelRoot="/formFields"
+            hasCustomThumbnail="{Boolean}false"
+            schemaRef="/content/dam/formsanddocuments-fdm/contact-us-data-model"
+            title="KO Attach Document"/>
+    </jcr:content>
+</jcr:root>

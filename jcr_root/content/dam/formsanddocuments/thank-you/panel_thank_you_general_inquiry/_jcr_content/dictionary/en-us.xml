@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="en-us"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <ac1af3ca-2060-4757-aaec-ad40726d36a5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="Thank you General Inquiry"/>
+    <bd5be16e-19c0-4fd7-84a6-b0d82b04ee81
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <ce7cd8e8-3f11-4abc-ae96-180d180272bb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="Adaptive Form Title"/>
+    <f547ac20-36c4-4ce9-b6cf-cd62140d748a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>Thank you for taking the time to submit an inquiry about &lt;b>{web account registration | a website feedback or error | quality assurance or order support | having trouble accessing or finding content}&lt;/b>.&lt;/p>&#xd;&#xa;&lt;p>We have received your request and a confirmation email has been sent to &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> with submission details. You can expect to hear from us back via email within 48 hours.&lt;/p>&#xd;&#xa;&lt;p>In the meantime, view &lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot; data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>FAQs&lt;/a> if you have other questions or check out more of Dow.com!&lt;/p>&#xd;&#xa;"/>
+    <_x0034_51ba41a-3b5d-4c24-a660-0b7c9053284b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="BACK TO CONTACT US"/>
+</jcr:root>

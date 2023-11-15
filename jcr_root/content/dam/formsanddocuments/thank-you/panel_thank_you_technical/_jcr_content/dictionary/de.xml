@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="de"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_technical/jcr:content/dictionary">
+    <d2f0530a-135b-46b4-a6cc-aa24ed456317
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##5026"
+        sling:message="Thank you Technical"/>
+    <_x0035_6b5e6f2-950c-40dc-8217-42fee4b79c1a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4355"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <cea6d9a1-85e6-40e4-8b25-a0820efedde0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##3884"
+        sling:message="Veränderbarer Titel"/>
+    <db262690-deb1-40fd-9c07-f53e7325c948
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##338"
+        sling:message="&lt;p> Vielen Dank, dass Sie eine Anfrage für technische Hilfe zu Dow-Produkten gesendet haben. &lt;/p>&#xd;&#xa;&lt;p>Wir haben Ihre Anfrage erhalten und eine Bestätigungs-E-Mail mit Einzelheiten zur Einreichung wurde an XXXXXXX  &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> gesendet. Sie können damit rechnen, innerhalb von 48 Stunden eine Rückmeldung von uns per E-Mail zu erhalten&lt;/p>&#xd;&#xa;"/>
+    <_x0034_a8e2dae-7b9d-40f5-8ff1-2a7642ddaf54
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##1836"
+        sling:message="Zurück zu “Kontaktieren Sie uns”"/>
+</jcr:root>

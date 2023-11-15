@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0"
+    jcr:primaryType="sling:Folder"
+    lcFolder="{Long}0"
+    type="lcFolder">
+    <jcr:content
+        cq:isDelivered="{Boolean}true"
+        cq:lastReplicated="{Date}2023-11-10T10:34:52.473Z"
+        cq:lastReplicated_publish="{Date}2023-11-10T10:34:52.473Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T10:34:52.473Z"
+        cq:lastReplicatedBy="alin.costin@brandwidth.com"
+        cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
+        cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Technical Inquiry">
+        <folderThumbnail/>
+    </jcr:content>
+</jcr:root>

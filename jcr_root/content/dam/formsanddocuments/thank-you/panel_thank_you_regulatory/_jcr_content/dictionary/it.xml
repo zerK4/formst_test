@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="it"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_regulatory/jcr:content/dictionary">
+    <_x0039_0785385-e14d-40f0-a8ce-94febedc6331
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##411"
+        sling:message="Thank you Regulatory"/>
+    <_x0037_d502372-2774-4d15-a245-88c1a8a28971
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4014"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <_x0038_599a83c-3755-4c6c-908a-9f8792370f1a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##6859"
+        sling:message="Adaptive Form Title"/>
+    <_x0033_2f77396-dc0c-4fd7-8d3f-5317ea93d834
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##5848"
+        sling:message="&lt;p>Grazie per aver inviato una richiesta di informazioni normative sui prodotti Dow.&lt;/p>&#xd;&#xa;&lt;p>Abbiamo ricevuto la sua richiesta e le abbiamo inviato un'e-mail di conferma all'indirizzo  &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> con i dettagli dell'invio. La risposta via e-mail è prevista entro 48 ore.&lt;/p>&#xd;&#xa;&lt;p>Nel frattempo, può trovare utili dettagli normativi nelle nostre schede tecniche specifiche per i prodotti.  &lt;a href=&quot;https://www.dow.com/en-us/support/accessing-regulatory-data-sheets.html&quot; target=&quot;_blank&quot; data-clickable-id=&quot;clickable-1&quot;>Accedere a queste RDS su Dow.com.&lt;/a>&lt;/p>&#xd;&#xa;"/>
+    <f6c1167e-1253-4e35-ad80-207cb8fade61
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##2961"
+        sling:message="Ritornare a Contattaci"/>
+</jcr:root>

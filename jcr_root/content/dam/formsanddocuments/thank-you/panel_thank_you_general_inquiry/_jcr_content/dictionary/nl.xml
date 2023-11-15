@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="nl"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <_x0039_8fe1119-f0b8-41ba-8531-acb9ce8a61e5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="Thank you General Inquiry"/>
+    <a8b932b6-9472-41b0-bfe4-b9662c918c97
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <f126bc6c-4afa-4a89-8085-a3efa518c992
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="Adaptive Form Title"/>
+    <b014fda1-ab4a-4a35-9f12-afbcc6753e78
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>Bedankt dat u de tijd heeft genomen om een verzoek in dienen over &lt;b>{webaccountregistratie  |  een opmerking of -fout op de website  |  kwaliteitsverzekering of ondersteuning bij uw order  |  een problem bij het openen of vinden van inhound}&lt;/b>.&lt;/p>&#xd;&#xa;&lt;p>We hebben uw verzoek ontvangen en er is een bevestigingsmail verzonden naar &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> met de detail van uw verzoek. U kunt binnen 48 uur een reactie van ons verwachten per e-mail..&lt;/p>&#xd;&#xa;&lt;p>Bekijk in de tussentijd onze &lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot; data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>FAQs&lt;/a> indien u andere vragen heeft of ontdek meer op Dow.com!&lt;/p>&#xd;&#xa;"/>
+    <_x0036_b1a34b4-77a7-45e8-995c-7e145d41526c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="Terug naar Neem contact op"/>
+</jcr:root>

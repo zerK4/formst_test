@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="en-us"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_technical/jcr:content/dictionary">
+    <_x0033_9f04dd1-8a30-4f1b-9048-bfa43fed61cd
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##5026"
+        sling:message="Thank you Technical"/>
+    <_x0032_b565cad-83d8-47a0-b44b-a79e37217753
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4355"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <_x0036_6fb1da6-b994-461b-a11b-b00cec3bdf66
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##3884"
+        sling:message="Adaptive Form Title"/>
+    <_x0039_64b4c94-a443-4bc2-bd95-07ccb019ee82
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##338"
+        sling:message="&lt;p>Thank you for submitting an inquiry for technical help with Dow products&lt;/p>&#xd;&#xa;&lt;p>We have received your request and a confirmation email has been sent to &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> with submission details. You can expect to hear from us back via email within 48 hours.&lt;/p>&#xd;&#xa;"/>
+    <_x0033_54ace4a-ffae-43fe-b310-386693daba89
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##1836"
+        sling:message="BACK TO CONTACT US"/>
+</jcr:root>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="fr"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/ko-product-sales/dropdown_input_component/jcr:content/dictionary">
+    <d71d3d02-aa9d-40a6-a791-4b9f08a03397
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##9283"
+        sling:message="Composant de menu déroulant/saisie"/>
+    <_x0032_0122064-9189-4981-b5de-7472888dc09b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##jcr:title##110"
+        sling:message="Section"/>
+    <eb811a55-3bd7-4db7-8dd5-34d55e62ab6b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidetextbox##jcr:title##7337"
+        sling:message="Estimation du volume annuel"/>
+    <_x0030_85f349d-6235-4e1b-b22e-51b5d1297d7b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidetextbox##placeholderText##3313"
+        sling:message="Veuillez saisir un autre type..."/>
+    <_x0033_9f034b6-3893-446c-85d9-010a50610a36
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##jcr:title##1878"
+        sling:message="Estimation du volume annuel"/>
+    <b124b6d7-71ad-47d0-a74f-aaedb47b5219
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##0"
+        sling:message="ctd"/>
+    <_x0033_f54c3a7-ebd7-4345-b029-e01c6209745a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##1"
+        sling:message="g"/>
+    <aec40470-7eb2-4636-b47c-19050e84a428
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##2"
+        sling:message="gal"/>
+    <_x0033_f488c31-79c8-45cb-8767-620fc12689ef
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##3"
+        sling:message="kg"/>
+    <_x0036_5ad18a8-de38-45e9-895e-89f1414cc9ef
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##4"
+        sling:message="lb"/>
+    <fe848195-3fcf-4027-aba0-aa3772c19477
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##5"
+        sling:message="qt"/>
+    <_x0030_0f42e77-6224-41aa-b55e-ee774fc89a14
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##6004##6"
+        sling:message="MT"/>
+    <_x0030_978e35c-918a-4a9d-9a28-d2c45b3c1f19
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidetextbox_1040298##jcr:title##8946"
+        sling:message="Zone de texte"/>
+    <_x0039_ea28272-4916-4773-926c-0c87901897ac
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidetextbox##jcr:title##1016"
+        sling:message="Volume Annuel Prévu (facultatif)"/>
+    <_x0031_67f8ffa-91ba-452a-8d58-b6e86b7582dd
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##jcr:title##9004"
+        sling:message="Volume Annuel Prévu (facultatif)"/>
+    <cf78ec91-e5e6-4758-b595-5a2c43acbd66
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##8031##0"
+        sling:message="ctd"/>
+    <_x0036_34e45c7-a40d-4515-af57-3a5cf9b9c83e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##8031##1"
+        sling:message="g"/>
+    <dcd679d8-b87c-4574-8435-f71acddbe734
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##8031##2"
+        sling:message="gal"/>
+    <_x0032_f40320d-4504-4cd8-ac35-450c3ffd7ba8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##8031##3"
+        sling:message="kg"/>
+    <b7830878-1315-4be8-9155-71a61a748666
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##8031##4"
+        sling:message="lb"/>
+    <b2671d8a-ee83-40e8-bf39-61ba1cd4db9e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##items##guidedropdownlist##options##8031##5"
+        sling:message="qt"/>
+</jcr:root>

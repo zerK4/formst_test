@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="it"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/business/tall_tales/jcr:content/dictionary">
+    <_x0032_fcd165f-68d0-44b0-a879-49ea36992492
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##3421"
+        sling:message="Tall Tales"/>
+    <_x0032_6f4ce5c-3e72-49bc-b228-4142265eb74c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##jcr:title##9742"
+        sling:message="Root Panel"/>
+    <b8a998b6-74ca-4851-8334-244e6af0745f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##jcr:title##6822"
+        sling:message="Section"/>
+    <e5348f21-7edd-4a80-aa65-27e0d952f371
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1981271##items##guidetextdraw##_value##914"
+        sling:message="&lt;p>All fields are mandatory unless marked (optional)&lt;/p>&#xd;&#xa;"/>
+    <d0ca99da-8fd6-486d-9ae7-d38f8a79cd24
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##afformtitle##_value##4479"
+        sling:message="&lt;p>&lt;b>Need help with your future high-rise project? Let us know how we can help!&lt;/b>&lt;/p>&#xd;&#xa;"/>
+    <a195e4ef-fdeb-45b4-a75f-02a7554a9e2d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##afformtitle##jcr:title##8133"
+        sling:message="Adaptive Form Title"/>
+    <_x0035_1b3f675-812c-45f8-b169-24297c2806b4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_1764868##mandatoryMessage##8458"
+        sling:message="This field is required"/>
+    <c6296980-9411-4efc-a6bc-d523e5eaa0ce
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_1764868##jcr:title##4057"
+        sling:message="First Name"/>
+    <_x0030_89d40f6-55c3-4b45-849a-2a3cc19cd869
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_1835554##mandatoryMessage##8864"
+        sling:message="This field is required"/>
+    <_x0031_5dead56-e68d-4063-b422-9580c05e9d20
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_1835554##jcr:title##9091"
+        sling:message="Last Name"/>
+    <_x0039_da74fb7-4348-4f28-97b7-ccd249206066
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_9866292##mandatoryMessage##9651"
+        sling:message="This field is required"/>
+    <d9ab0f66-9901-4f6f-9bee-a5e4e2232c80
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_9866292##jcr:title##1030"
+        sling:message="Company"/>
+    <_x0035_f4dd81f-bff7-4d72-9804-e44430468afb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guideemail##mandatoryMessage##3066"
+        sling:message="This field is required"/>
+    <_x0031_c15594e-8133-4b48-be10-8a232ebac543
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guideemail##jcr:title##6836"
+        sling:message="Email Address"/>
+    <_x0038_d5312d3-e3d3-4543-88e1-f3a1ee6e98c8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidecheckbox##jcr:title##551"
+        sling:message="I would like to receive marketing emails from Dow"/>
+    <_x0036_82d98cd-2659-4b33-b59b-2b9dc7b5f310
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidecheckbox##options##4939"
+        sling:message="0=I would like to receive marketing emails from Dow (optional)"/>
+    <e3dd7d51-4b4f-4780-bf19-1742f8e12b08
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetelephone##mandatoryMessage##5084"
+        sling:message="Incorrect format: Please begin with +"/>
+    <eaf9c305-a482-43e4-bd5e-c920bc168353
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetelephone##jcr:title##4612"
+        sling:message="Business Phone (optional)"/>
+    <dcbbb0fc-6523-4989-b34f-f231c1618d6c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetelephone##validatePictureClauseMessage##6990"
+        sling:message="Wrong format - please start with +"/>
+    <_x0033_62b2332-4bde-490b-a9f9-22520422ff0e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##panel_copy##jcr:title##9861"
+        sling:message="Section"/>
+    <_x0035_fd82104-fdff-459a-a4d8-bcbf5c5562f7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##panel_copy##items##guidedropdownlist##jcr:title##4691"
+        sling:message="Country (optional)"/>
+    <_x0036_367f8a2-9b3c-443e-807a-27cb1f6fd342
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##panel_copy##items##guidedropdownlist##placeholderText##5592"
+        sling:message="Please select"/>
+    <_x0036_2bed000-039c-40a2-af09-a7df6c0857f6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox##jcr:title##2483"
+        sling:message="Describe your current project need (optional)"/>
+    <eb19f767-3574-41c7-817a-8bdba4179259
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextbox_copy##jcr:title##3819"
+        sling:message="elqFormName"/>
+    <d963c388-969e-4f02-b8c4-bf4219400bc7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##panel_copy_1931699815##jcr:title##6985"
+        sling:message="Section"/>
+    <_x0030_e8abf1b-f2f8-4793-862e-8eddf44103fa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##guidetextdraw_copy##_value##5617"
+        sling:message="&lt;p>Our&amp;nbsp;&lt;a href=&quot;https://legal.dow.com/en-us/privacy-statement/customer-privacy-notice&quot; data-clickable-id=&quot;clickable-7&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;>Customer Privacy Notice — Marketing &amp;amp; Sales&lt;/a>&amp;nbsp;provides detailed information about the personal data we collect and process, the purposes for which we use the data, the legal bases we rely on, the third parties with whom we share the data, how long we keep the data, etc. For more information, please refer to our&amp;nbsp;&lt;a href=&quot;https://legal.dow.com/en-us/privacy-statement&quot; data-clickable-id=&quot;clickable-8&quot; target=&quot;_blank&quot;>Privacy Statement&lt;/a>.&lt;/p>&#xd;&#xa;"/>
+    <_x0030_45ba3ae-5ee2-4c9d-9bc1-ed53682598c8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_736646116##items##submit##jcr:title##1576"
+        sling:message="REQUEST INFORMATION"/>
+    <_x0032_50bdc3f-d50b-4f31-b97d-89650a50ceec
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1349959935##jcr:title##6057"
+        sling:message="Section"/>
+</jcr:root>

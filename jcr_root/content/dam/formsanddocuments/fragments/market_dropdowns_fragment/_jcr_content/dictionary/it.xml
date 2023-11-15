@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="it"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/fragments/market_dropdowns_fragment/jcr:content/dictionary">
+    <dfc39073-2cc5-44fd-aecd-5b7598069680
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##6322"
+        sling:message="Market Dropdowns Fragment"/>
+    <fce094e7-85b7-4ac2-9266-099e03bc8adc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##mandatoryMessage##5315"
+        sling:message="This field is required"/>
+    <_x0031_5db7ea7-aa69-4ec7-b1a1-dbb931db4c8a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##jcr:title##9250"
+        sling:message="Market"/>
+    <_x0036_efb77f8-0c3d-46ac-b1a2-d675e4194d28
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##placeholderText##126"
+        sling:message="Filled entry"/>
+    <d7cc7ed5-8e54-45da-9f4e-79efcb05a2a1
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox##jcr:title##5822"
+        sling:message="Explain your intended Market-Application"/>
+    <bf8c2407-58a6-4843-a5d1-f8788454e052
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_1220425774##jcr:title##3594"
+        sling:message="Submarket"/>
+    <_x0037_4ad21dc-1a98-47b7-bbbb-c074d65904eb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_1220425774##placeholderText##1692"
+        sling:message="Filled Entry"/>
+    <ab2de559-d14b-43df-bc46-e7e5e506c4b8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_1957009797##jcr:title##1024"
+        sling:message="Application"/>
+    <_x0033_e4221c9-2031-4d69-b5f0-232ac47c9979
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist_1957009797##placeholderText##4869"
+        sling:message="Please select Application..."/>
+</jcr:root>

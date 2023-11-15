@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="de"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/pt-product-sales/pt-attach-document/jcr:content/dictionary">
+    <ffeb752d-64ce-4b9b-aaf2-8e1396fc50f3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##6354"
+        sling:message="Dokument anhängen"/>
+    <_x0032_b6f6f41-78a5-4786-87c5-9b927f05ce9c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox##jcr:title##2607"
+        sling:message="fileName"/>
+    <_x0039_1313bfd-a9fe-45b1-9e70-48089cf9c520
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1453704686##jcr:title##3934"
+        sling:message="mimeType"/>
+    <d9e1c4a1-1f72-420e-ba20-7be69dea428a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidefileupload##buttonText##4850"
+        sling:message="Dokument anhängen"/>
+    <bac2fbd3-180d-4a5a-a18c-f280b26944fc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_813036##_value##4331"
+        sling:message="&lt;p>&lt;b>Unterstützte&#xa;            Dateitypen:&amp;nbsp;&lt;/b>.doc(x), .ppt(x), .xls(x), .jpg, .gif, .png, .pdf,&#xa;            .zip&lt;/p>&#xd;"/>
+    <_x0033_0e6285c-4cd1-4ca3-bf05-02b1331b5ca4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_648756##_value##1662"
+        sling:message="&lt;p>&lt;b>Größenbeschränkung&lt;/b>: 8&#xa;            MB(Hinweis: Sie&#xa;            können nur eine Datei pro Einreichung hinzufügen. Wenn mehrere Anhänge erforderlich&#xa;            sind,&#xa;            legen Sie diese bitte in einer einzelnen .zip-Datei ab, bevor Sie sie&#xa;            anhängen.)&lt;/p>"/>
+</jcr:root>

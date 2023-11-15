@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="nl"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_regulatory/jcr:content/dictionary">
+    <_x0033_cc7c3af-3960-4819-8080-e9a363b5e243
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##411"
+        sling:message="Thank you Regulatory"/>
+    <a8aeb23f-ae1c-42de-93ca-ea6eca13946a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4014"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <_x0031_01bf224-d879-496a-a1a0-d070f7db6171
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##6859"
+        sling:message="Adaptive Form Title"/>
+    <c971586c-91ff-4a4a-9bb8-680d7f487756
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##5848"
+        sling:message="&lt;p> Bedankt voor het indienen van een aanvraag over wettelijke informatie over onze Dow-producten. &lt;/p>&#xd;&#xa;&lt;p>We hebben uw verzoek ontvangen en er is een bevestigingsmail verzonden naar &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a>  met de details van uw verzoek. U kunt binnen 48 uur een reactie van ons verwachten per e-mail.&lt;/p>&#xd;&#xa;&lt;p>In de tussentijd kunt u nuttige informatie over de regelgeving vinden op onze productspecifieke wettelijke gegevensbladen. &lt;a href=&quot;https://www.dow.com/en-us/support/accessing-regulatory-data-sheets.html&quot; target=&quot;_blank&quot; data-clickable-id=&quot;clickable-1&quot;> Ontdek hoe u toegang krijgt tot deze documenten op Dow.com. &lt;/a>&lt;/p>&#xd;&#xa;"/>
+    <_x0036_3ff462d-7dfd-4083-8cae-a815939d2040
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##2961"
+        sling:message="Terug naar Neem contact op"/>
+</jcr:root>

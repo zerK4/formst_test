@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="nl"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_default/jcr:content/dictionary">
+    <a5d0ad1c-7c56-4cd0-bdc9-91efc48f95ca
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7150"
+        sling:message="Thank you Default Fragment"/>
+    <_x0035_529086e-2f84-46db-824d-685a10450004
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##_value##7928"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <a949a7c2-4017-4414-b41a-6295edd930f4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##jcr:title##9121"
+        sling:message="Adaptive Form Title"/>
+    <_x0033_aff3e7b-847a-413f-a737-2375a2422cdd
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw##_value##590"
+        sling:message="&lt;p>We habben uw verzoek ontvangen. Er is een bevestigingsmail verzonden naar &lt;a href=&quot;mailto:john.doe.smith@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe.smith@dow.com&lt;/a> met een kopie van uw verzoek.&lt;/p>&#xd;&#xa;&lt;p>Als u geen e-mail hebt ontvangen, controleer dan uw map met ongewenste e-mail.&lt;/p>&#xd;&#xa;"/>
+    <_x0032_e0dcfd5-7c2b-4516-8c12-2b2345d247bc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton##jcr:title##3846"
+        sling:message="Terug naar Neem contact op"/>
+</jcr:root>

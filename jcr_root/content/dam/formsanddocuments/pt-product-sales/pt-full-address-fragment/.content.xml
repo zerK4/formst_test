@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:fd="http://www.adobe.com/aemfd/fd/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        cq:isDelivered="{Boolean}true"
+        cq:lastReplicated_publish="{Date}2023-11-13T07:19:31.312Z"
+        cq:lastReplicated_scene7="{Date}2023-11-10T10:34:04.944Z"
+        cq:lastReplicatedBy_publish="alin.costin@brandwidth.com"
+        cq:lastReplicatedBy_scene7="alin.costin@brandwidth.com"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
+        jcr:lastModified="{Date}2023-11-13T14:36:27.375Z"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        sling:resourceType="fd/fm/af/render"
+        affragment="1"
+        type="affragment">
+        <dictionary jcr:primaryType="nt:unstructured">
+            <de/>
+            <it/>
+            <fr/>
+            <nl/>
+        </dictionary>
+        <metadata
+            dam:scene7PublishPending="{Boolean}true"
+            fd:version="1.1"
+            jcr:primaryType="nt:unstructured"
+            author="admin"
+            formmodel="formdatamodel"
+            fragmentModelRoot="/formFields"
+            hasCustomThumbnail="{Boolean}false"
+            schemaRef="/content/dam/formsanddocuments-fdm/contact-us-data-model"
+            title="PT Full Address Fragment"/>
+    </jcr:content>
+</jcr:root>

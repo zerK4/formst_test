@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="it"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/technical-inquiry/technical_inquiry_product_recommendation_copy1/jcr:content/dictionary">
+    <f3f90e03-ab23-4d80-ae44-d59e73251221
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##8039"
+        sling:message="Richieste di carattere tecnico - Suggerimento prodotti "/>
+    <_x0036_94dabee-51f7-40ff-9575-a996e13edffc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##thankYouMessage##4139"
+        sling:message="Grazie per aver compilato il modulo."/>
+    <b327d775-ee6a-4b8e-82a6-c05ced8b42fe
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##jcr:title##837"
+        sling:message="Root Panel"/>
+    <ba8e598e-f698-499f-b583-87b0c509cc4f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##jcr:title##9389"
+        sling:message="Section"/>
+    <c4d97b89-fff8-4c40-9411-09684b3e4eaa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextdraw##_value##8794"
+        sling:message="&lt;p>Tutti i campi sono obbligatori, a meno che non siano contrassegnati come facoltativi&lt;/p>&#xd;&#xa;"/>
+    <_x0038_b37ff56-948f-4b30-a9ff-ed9d3286b109
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##afformtitle##_value##2635"
+        sling:message="&lt;p>Suggerimenti a proposito dell'ambito di applicazione&lt;/p>&#xd;&#xa;"/>
+    <e1bbf34a-2cb0-4c29-9a0d-edb719e71953
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##afformtitle##jcr:title##4496"
+        sling:message="Titolo del modulo adattativo"/>
+    <_x0039_cd38286-ce3b-4ad5-a5d1-49a38c54231c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_copy##mandatoryMessage##1002"
+        sling:message="Questo campo è obbligatorio"/>
+    <_x0030_624fc28-0d8e-4b08-bd37-d0edb73d3b69
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_copy##jcr:title##3358"
+        sling:message="Applicazione (settore) del prodotto finale"/>
+    <_x0034_27c0337-8d1f-4e17-a9d4-35de7a5925a3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_copy_89##mandatoryMessage##9135"
+        sling:message="Questo campo è obbligatorio"/>
+    <_x0036_a2474fb-997c-477c-bcb0-fe2c0bde8875
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_copy_89##jcr:title##6477"
+        sling:message="Cosa volete ottenere da questo prodotto?"/>
+    <_x0039_0114f35-72b2-43c9-a6ed-3ac18654873b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton_1753498132##jcr:title##9829"
+        sling:message="State attualmente utilizzando un prodotto e cercate un'alternativa? (optional)"/>
+    <cc970327-dd40-4d75-b6c4-9b56f0d75b8c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton_1753498132##options##3183##0"
+        sling:message="Si"/>
+    <ada15816-1a00-4a09-91d8-c436bac1b9ed
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton_1753498132##options##3183##1"
+        sling:message="No"/>
+    <_x0030_6990f61-5f94-46b2-b4e7-0925fe12effc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton##mandatoryMessage##2639"
+        sling:message="Questo campo è obbligatorio"/>
+    <cc265cf7-a408-478f-b29f-a64b16ccfaf8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton##jcr:title##9086"
+        sling:message="State attualmente utilizzando un prodotto e cercate un'alternativa? (optional)"/>
+    <fda98907-c072-4d4d-8930-d57ee7c8be45
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton##options##8998##0"
+        sling:message="Si"/>
+    <e6d6d285-1e60-4703-93b0-890f444c8287
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton##options##8998##1"
+        sling:message="No"/>
+    <_x0036_dbbe01f-bd46-450c-a592-91dac301f48c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton##options##936##0"
+        sling:message="Si"/>
+    <_x0036_e932431-0cdd-416f-8c94-ac07e2d59ab7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideradiobutton##options##936##1"
+        sling:message="No"/>
+    <_x0038_7b30c81-e6d4-4545-b2c0-0aee8585d15a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_659211870##jcr:title##1667"
+        sling:message="Nome attuale del prodotto"/>
+    <_x0034_fb71957-5756-4f78-b854-a88e623612ab
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##mandatoryMessage##5660"
+        sling:message="Questo campo è obbligatorio"/>
+    <a58d829a-763e-4e02-bc50-5541e3f9e19c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##jcr:title##2433"
+        sling:message="Esigenze specifiche di sostenibilità (selezionare tutte quelle applicabili)"/>
+    <ceba0692-6857-4d98-8b94-74dc565325c5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##options##9226##0"
+        sling:message="Riciclabilità e/o Circolarità"/>
+    <_x0036_ca9002e-8fc4-4bda-91f6-a875e5e47cc5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##options##9226##1"
+        sling:message="Ciclo di vita del prodotto o emissioni CO2"/>
+    <d4be5554-3997-49fa-a3c1-ddbe5b060edd
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##options##9226##2"
+        sling:message="Test sugli animali"/>
+    <ca15efa9-283b-4172-997e-eaa478343fca
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##options##9226##3"
+        sling:message="Microplastiche"/>
+    <_x0032_f8deb3f-bd2f-406f-aebc-5fd569e978cd
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##options##9226##4"
+        sling:message="Origine delle materie prime"/>
+    <d9f7e79b-4690-4608-a9bf-b614f4ffba11
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidecheckbox##options##9226##5"
+        sling:message="Altre richieste relative alla produzione"/>
+    <_x0031_689f891-5020-463e-ab33-3c61f6067daf
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_2053239##jcr:title##9189"
+        sling:message="Text Box"/>
+    <d11303d1-1b4f-4e2f-8f99-7e3a2e8ca2de
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_2053239##placeholderText##6548"
+        sling:message="Please enter specific raw material Fonte"/>
+    <_x0035_b4b8d5b-3fdd-4cd1-88c4-d4840180949f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1482639##jcr:title##7072"
+        sling:message="Text Box"/>
+    <_x0035_f566c92-cf59-489c-abf7-72c276598163
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1482639##placeholderText##8477"
+        sling:message="Altre richieste relative alla produzione"/>
+    <bf095d83-48f6-419a-a494-420c4419f5e0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##panel_copy_935196040##jcr:title##5752"
+        sling:message="Section"/>
+    <be25a481-9617-4577-a50c-62791041685c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##afformtitle_19156420##_value##6398"
+        sling:message="&lt;p>Informazioni personali&lt;/p>&#xd;&#xa;"/>
+    <_x0030_b72baa8-cbd9-4faf-9461-6f2468fbfa95
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##afformtitle_19156420##jcr:title##6216"
+        sling:message="Titolo del modulo adattativo"/>
+    <e1fa66c0-4223-4bfe-86bf-333ac2dfbb04
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1764868##mandatoryMessage##1665"
+        sling:message="Questo campo è obbligatorio"/>
+    <f25e0cf3-9d09-40b9-a333-4f9b8cd336be
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1764868##jcr:title##1461"
+        sling:message="Nome"/>
+    <_x0039_bbc4abf-f353-4bab-8420-c17a925254c8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1835554##mandatoryMessage##8393"
+        sling:message="Questo campo è obbligatorio"/>
+    <_x0035_60a5606-bf3f-4498-857c-6f1c46ea984f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1835554##jcr:title##4269"
+        sling:message="Nome e cognome"/>
+    <_x0037_e106a92-da6e-4a59-9441-e03e894fc99c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideemail##mandatoryMessage##9505"
+        sling:message="Questo campo è obbligatorio"/>
+    <_x0038_7618919-6db9-4055-aaa6-a1768cd07dba
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guideemail##jcr:title##2268"
+        sling:message="Email"/>
+    <_x0031_c5ad981-e107-400c-8f51-4972137bea97
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetelephone_copy_##jcr:title##8269"
+        sling:message="Telefono (optional)"/>
+    <b5cfd472-7a11-4fa9-862f-41b7ade0dfb9
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetelephone_copy_##placeholderText##8858"
+        sling:message="+447333333333"/>
+    <fa65a9dd-8b59-4ab0-b573-30cf0ca79f41
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetelephone_copy_##validatePictureClauseMessage##9605"
+        sling:message="Formato errato: Si prega di iniziare con +"/>
+    <dbeb2871-8250-4b48-b175-88db9474d64b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist##jcr:title##1918"
+        sling:message="Modalità di contatto preferita (optional)"/>
+    <_x0031_2c4c167-7560-4f0e-b8de-6809395ac02b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist##options##6681##0"
+        sling:message="Email"/>
+    <_x0038_b75cd48-6d73-426f-aa40-0e6b89e80303
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist##options##6681##1"
+        sling:message="Telefono"/>
+    <f416d769-b4e7-4169-9345-fe7085877387
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist##placeholderText##8253"
+        sling:message=" "/>
+    <_x0038_e076022-84b9-4936-bbf7-cb92e52130ee
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##afformtitle_71327489##_value##7029"
+        sling:message="&lt;p>Informazioni sull'azienda&lt;/p>"/>
+    <_x0032_d818099-1106-48b7-8752-5d1de80d21e5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##afformtitle_71327489##jcr:title##6604"
+        sling:message="Titolo del modulo adattativo"/>
+    <d692c868-ac42-43ee-9f39-2aaaf750e9e1
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1364004##mandatoryMessage##3159"
+        sling:message="Questo campo è obbligatorio"/>
+    <_x0038_01f4d98-5f26-4708-8b90-7ccbbbde9950
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_1364004##jcr:title##5909"
+        sling:message="Società"/>
+    <acc21248-31cd-409c-8391-67ecb2fbdd4f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##panel_copy##jcr:title##6590"
+        sling:message="Section"/>
+    <_x0035_7ee2d95-09fe-47b7-a63e-cf4e4bef91b7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##jcr:title##6087"
+        sling:message="Funzione/Ruolo professionale (Opzionale)"/>
+    <_x0031_6b4bdd9-57c6-4761-83de-8c97049869ef
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##0"
+        sling:message="Amministrazione"/>
+    <b10e4adc-ad27-4289-ab4d-d6f1dbaf856d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##1"
+        sling:message="Architetto/designer"/>
+    <_x0031_83c0a72-4116-44cc-af47-5c915cd88345
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##2"
+        sling:message="Sviluppo aziendale"/>
+    <cf04c114-14f5-4d98-966f-05d6e1deaa88
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##3"
+        sling:message="Consulenza"/>
+    <b9602ca5-6a01-4a34-8cc2-1dec928d6f09
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##4"
+        sling:message="Assistenza clienti"/>
+    <_x0031_4c3da90-b241-4489-83c6-03fe7281b368
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##5"
+        sling:message="Design"/>
+    <_x0037_7fb5b6b-7451-4c45-b55b-e9f09ec16f2f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##6"
+        sling:message="Studente/Professore"/>
+    <_x0030_c804523-3b80-485d-a5ce-756d3eedd5ac
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##7"
+        sling:message="Ingegneria"/>
+    <_x0035_68317ad-1d74-4160-98de-21d69b463929
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##8"
+        sling:message="Facility Management"/>
+    <_x0032_c109ac8-337e-4d1b-9ad5-51472e112dbc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##9"
+        sling:message="Finanza / Contabilità"/>
+    <f278633b-9883-40d1-89b2-677daea0af9f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##10"
+        sling:message="Risorse umane"/>
+    <_x0030_051b81c-1e1f-4e58-be88-ada0b839a7b6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##11"
+        sling:message="Sistemi informativi"/>
+    <fc999630-98df-49ea-8d29-756b64ba4ddd
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##12"
+        sling:message="Ufficio legale"/>
+    <ba4ded7c-8178-4e29-b4c8-55df1393f7f6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##13"
+        sling:message="Management / Executive"/>
+    <_x0037_d18f9b9-3ca5-42f6-a879-4e5bb8ddabfc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##14"
+        sling:message="Produzione/Lavorazione"/>
+    <_x0038_f17e38b-d8ab-418c-9960-4f0ae2d6c96e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##15"
+        sling:message="Marketing"/>
+    <d3af184f-619b-458c-a507-e853e2334b28
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##16"
+        sling:message="Marketing &amp; Sviluppo aziendale"/>
+    <_x0039_8cef110-56ea-48d8-a8b1-55f7160301ee
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##17"
+        sling:message="Altro"/>
+    <_x0032_0827c84-4f89-4cb9-8cf0-ec20b036a1b2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##18"
+        sling:message="Project Management"/>
+    <_x0034_f59116f-d229-4527-b66b-91c001ab500a
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##19"
+        sling:message="Public Affairs / Comunicazione"/>
+    <_x0033_e4968a9-e447-4948-ab15-41eb8c05776c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##20"
+        sling:message="Acquisti"/>
+    <_x0035_1c90687-163c-4cee-89d0-07b3c5ea7f4e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##21"
+        sling:message="Acquisti / Supply chain"/>
+    <e5476074-abe4-4a69-bd7b-352641e9ac98
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##22"
+        sling:message="Qualità"/>
+    <_x0036_56905d3-f91c-450b-854c-cbd52b85dd3c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##23"
+        sling:message="Regolamentazion / EH&amp;S"/>
+    <_x0030_9b069e4-4124-4e77-9f76-791ffad0772f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##24"
+        sling:message="Ricerca  &amp; sviluppo"/>
+    <_x0034_d53cee3-8441-4db8-ac0f-f5549a83108f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##25"
+        sling:message="Vendite"/>
+    <_x0036_cb1aa6c-3e43-497f-9d6a-3f5dd10e68bc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##26"
+        sling:message="Supply chain / Logistica"/>
+    <_x0035_79b2333-d6a6-4d7b-b92a-1df0eb5a4f48
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##27"
+        sling:message="Sostenibilità"/>
+    <d9420131-4f92-4e94-a622-2e8ad28a09b3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##options##438##28"
+        sling:message="Supporto tecnico/applicativo"/>
+    <_x0037_8077cf8-120d-4656-b15d-79f319cf8b60
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidedropdownlist_13##placeholderText##6793"
+        sling:message=" "/>
+    <e09a0b32-e9f9-473c-b825-cf4eb951065b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##panel_245963411_copy##jcr:title##1119"
+        sling:message="Section"/>
+    <d70726ec-bddf-4182-ba66-cf8ad2d4fa6f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##guidetextbox_copy_45769889##jcr:title##1692"
+        sling:message="Codice di richiesta"/>
+    <_x0031_0ce1299-ec55-42b1-8eac-5ced90177f7f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##panel_817757853##jcr:title##2171"
+        sling:message="Section"/>
+    <e1d68c1f-2bb4-4328-a45c-dd4165450655
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##submit##jcr:title##5635"
+        sling:message="Inviare la richiesta"/>
+    <_x0036_9b2a205-7adc-424e-a56c-7dea58f90ca7
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel_1158903488##items##nextitemnav_copy##jcr:title##2975"
+        sling:message="Revisione"/>
+    <_x0033_b690b33-9299-45e4-bb83-fa84fb4b39e2
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##panel##jcr:title##6391"
+        sling:message="Section"/>
+    <_x0032_5ce37b4-0921-4a27-8b6c-2ace1f46eeaa
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##jcr:title##760"
+        sling:message="CAPTCHA"/>
+    <_x0033_d6fee63-fd69-45ae-893e-365650d1c607
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##validateExpMessage##5447"
+        sling:message="Capcha non valido. Try again."/>
+    <_x0033_49a4ee6-9263-4456-bdf7-e58b749fbac3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidecaptcha##mandatoryMessage##870"
+        sling:message="Fornire il Captcha per procedere."/>
+</jcr:root>

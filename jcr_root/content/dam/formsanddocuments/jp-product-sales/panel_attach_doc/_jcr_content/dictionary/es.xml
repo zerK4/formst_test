@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="es"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/jp-product-sales/panel_attach_doc/jcr:content/dictionary">
+    <a01d782a-ab0a-4047-b478-9868c7119997
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##6354"
+        sling:message="Adjuntar documento"/>
+    <c77f7a09-376c-4419-909f-bae7c02c914f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidefileupload##buttonText##4850"
+        sling:message="Adjuntar documento"/>
+    <_x0031_d5b81e7-40ea-4a38-b89e-1978c3f5f0b3
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_813036##_value##4331"
+        sling:message="&lt;p>&lt;b>Tipos de archivo admitidos:&amp;nbsp;&lt;/b>.doc(x), .ppt(x), xls(x), .jpg, .gif, .png, .pdf .zip&lt;/p>&#xd;&#xa;"/>
+    <_x0037_749af0e-b24b-44e6-ad71-5ec1cd248de0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_648756##_value##1662"
+        sling:message="&lt;p>&lt;b>Límite de tamaño&lt;/b>: 8 MB (Nota: Solo puede agregar un archivo por envío, si se necesitan varios archivos adjuntos, colóquelos en un solo archivo .zip antes de adjuntarlos).&lt;/p>"/>
+</jcr:root>

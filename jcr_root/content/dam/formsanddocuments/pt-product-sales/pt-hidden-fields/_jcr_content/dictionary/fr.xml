@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="fr"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/pt-product-sales/pt-hidden-fields/jcr:content/dictionary">
+    <c0e799d3-36b5-4223-90e3-a3a1515f8905
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##1320"
+        sling:message="Champs cachés"/>
+    <dcc60a19-fe34-4e23-852d-a0c8bc6ace68
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox##jcr:title##5765"
+        sling:message="Chaîne"/>
+    <d8bfba7e-377e-432f-b52c-d04f8a640ebe
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_381026557##jcr:title##7782"
+        sling:message="ID de campagne CRM"/>
+    <_x0030_008f7c9-2684-4165-9dc3-6c0db6998d80
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_168774294##jcr:title##3972"
+        sling:message="GUID du client"/>
+    <_x0032_6fcd9b1-bd7b-4bb9-bc0c-c43837b75e4e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1577465993##jcr:title##4117"
+        sling:message="ID de campagne de marketing automatisé"/>
+    <_x0036_9b6a05a-dcf5-462f-8375-4c47b0dd4d10
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_541141652##jcr:title##1963"
+        sling:message="Détails du prospect - Le plus récent"/>
+    <c98f40be-bb03-48da-a646-bf000a7f5269
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_2069054271##jcr:title##3313"
+        sling:message="Source du prospect - Le plus récent"/>
+    <fd062865-7275-4e73-aa2e-48b3e4ceee6b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1911228262##jcr:title##4757"
+        sling:message="URL de référence"/>
+    <b8857f64-ba5f-4ace-99c5-570db0291b5c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_251430501##jcr:title##4327"
+        sling:message="Source"/>
+    <_x0037_a895861-b3fb-46fc-8f97-2814525432e0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1580488069##jcr:title##2521"
+        sling:message="Send To"/>
+    <_x0031_af5b7f1-b8de-4f57-8f15-bd8cd29bc6d4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_34896209##jcr:title##1601"
+        sling:message="Form name"/>
+    <_x0036_9da37ef-9e22-4ff5-8e7d-539acdce98c5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1207864390##jcr:title##4085"
+        sling:message="Fulfillment_Communications_Requestor"/>
+    <dab4bc70-9ebc-4a4b-bf2a-3de1164bc8fb
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1495430992##jcr:title##2372"
+        sling:message="Fulfillment_Communications_Recipient"/>
+    <_x0031_c62ef16-b570-442a-81ea-d0da493c2542
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_638023879##jcr:title##4685"
+        sling:message="Product1_Request1_request-type"/>
+    <ad8c3d0c-7bb2-4377-bc82-4ca864f427a5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_1201214381##jcr:title##3407"
+        sling:message="languageCode"/>
+    <_x0038_c683a39-f6dd-4970-b9ac-7217ed325db5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_2020965007##jcr:title##3587"
+        sling:message="Send To"/>
+    <d52a675b-de24-4615-9f5b-6f58886fc8a0
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_62730611##jcr:title##7461"
+        sling:message="Form name"/>
+    <_x0030_e8ef9c1-2a40-4177-afb0-d6ec2c3d1bb4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_6273061##jcr:title##4914"
+        sling:message="Fulfillment_Communications_Requestor"/>
+    <_x0038_cb0e1cf-9f81-4f98-9516-75f83d040b28
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextbox_6273061_1217237677##jcr:title##4612"
+        sling:message="Fulfillment_Communications_Recipient"/>
+</jcr:root>

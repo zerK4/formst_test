@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="de"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_regulatory/jcr:content/dictionary">
+    <_x0032_1e6a95f-962d-4319-a2cf-c0b96041a113
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##411"
+        sling:message="Thank you Regulatory"/>
+    <_x0036_0ef622b-2468-4588-96e8-965f1235736d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##_value##4014"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <_x0037_d611bd5-e24c-4995-9e4c-5f8653d9fdbc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy_cop##jcr:title##6859"
+        sling:message="Adaptive Form Title"/>
+    <_x0037_2f2d67f-0ce9-41ba-8a2d-9b7cba46ae8e
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy_c##_value##5848"
+        sling:message="&lt;p>Vielen Dank, dass Sie eine Anfrage zu regulatorischen Informationen für Dow-Produkte gestellt haben..&lt;/p>&#xd;&#xa;&lt;p>Wir haben Ihre Anfrage erhalten und eine Bestätigungs-E-Mail mit den Einreichungsdetails wurde an &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> gesendet. Sie können davon ausgehen, dass Sie innerhalb von 48 Stunden eine Rückmeldung per E-Mail von uns erhalten.&lt;/p>&#xd;&#xa;&lt;p> In der Zwischenzeit finden Sie möglicherweise hilfreiche regulatorische Details in unseren produktspezifischen regulatorischen Datenblättern. &lt;a href=&quot;https://www.dow.com/en-us/support/accessing-regulatory-data-sheets.html&quot; target=&quot;_blank&quot; data-clickable-id=&quot;clickable-1&quot;>Erfahren Sie auf Dow.com, wie Sie auf diese RDS zugreifen können.&lt;/a>&lt;/p>&#xd;&#xa;"/>
+    <_x0030_348f63f-fb42-4397-b18e-e10fb9627b9f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy_cop##jcr:title##2961"
+        sling:message="Zurück zu “Kontaktieren Sie uns”"/>
+</jcr:root>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="fr"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <d4666971-cb59-4940-acfe-11a1a78695c4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="Merci pour votre demande générale"/>
+    <_x0033_42c7aec-2a95-41e9-8095-62c09b646ab5
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>Succès !&lt;/p>"/>
+    <ba84713c-7832-4be9-80ce-6829a202f928
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="Titre du formulaire adaptatif"/>
+    <_x0035_19e2b4d-a80d-4ca6-8ad6-9cd33656d574
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>Merci d'avoir pris le temps de soumettre une demande&#xa;      concernant &lt;b>{l'enregistrement d'un compte Web | un retour d'informations ou une erreur&#xa;      sur le site | l'assurance qualité ou le support de commande | des difficultés d'accès ou de&#xa;      recherche de contenu}&lt;/b>.&lt;/p>&#xd;&#xa;      &lt;p>Nous avons bien reçu votre demande, et un email de confirmation a été envoyé à &lt;a&#xa;      href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a>&#xa;      avec les détails de votre soumission. Vous pouvez vous attendre à recevoir une réponse par&#xa;      email de notre part dans les 48 heures.&lt;/p>&#xd;&#xa;      &lt;p>En attendant, consultez les &lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot;&#xa;      data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>FAQ&lt;/a> si vous avez d'autres&#xa;      questions, ou découvrez davantage sur Dow.com !&lt;/p>&#xd;&#xa;"/>
+    <_x0035_98670f8-31df-4cdd-87c0-d0863f1e9d40
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="RETOUR À NOUS CONTACTER"/>
+</jcr:root>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="fr"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_default/jcr:content/dictionary">
+    <d409fa5a-755c-44b4-834f-364e41faf34d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##7150"
+        sling:message="Thank you Default Fragment"/>
+    <_x0031_312f8b1-e848-41eb-85b8-445c22273265
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##_value##7928"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <bf52cf51-2364-4164-af67-f3e9d295a8c6
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle##jcr:title##9121"
+        sling:message="Adaptive Form Title"/>
+    <_x0031_4794bb1-9027-474e-8583-eb89e90c5b59
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw##_value##590"
+        sling:message="&lt;p>Nous avons bien recu votre demande. Un courriel de confirmation a ete envoye a &lt;a href=&quot;mailto:john.doe.smith@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe.smith@dow.com&lt;/a> avec une copie de votre soumission.&lt;/p>&#xd;&#xa;&lt;p>Si vous ne voyez aucun e-mail, veuillez verifier votre dossier de courrier indesirable.&lt;/p>&#xd;&#xa;"/>
+    <_x0031_9ae6abd-98d1-4684-b15a-27c6835e85ee
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton##jcr:title##3846"
+        sling:message="Retour a Contactez-nous"/>
+</jcr:root>

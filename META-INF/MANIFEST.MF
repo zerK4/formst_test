@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:sp_test_forms
+Content-Package-Roots: /content/forms,/content/dam/formsanddocuments
+Content-Package-Type: content
+

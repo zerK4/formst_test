@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="pt-br"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/fragments/eloqua_countries_dropdown_fragment-copy1/jcr:content/dictionary">
+    <_x0030_24f7a84-22dc-4bc4-94e6-666f94befa2d
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##1743"
+        sling:message="Countries Dropdown Fragment"/>
+    <_x0033_8246994-b170-40d1-8442-aee894ca906f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##mandatoryMessage##2040"
+        sling:message="This field is required"/>
+    <_x0031_4deb3f1-7177-4c50-bcf2-10c1747ccea8
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidedropdownlist##jcr:title##2793"
+        sling:message="Country"/>
+</jcr:root>

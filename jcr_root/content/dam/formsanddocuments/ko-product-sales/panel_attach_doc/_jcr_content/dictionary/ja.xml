@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="ja"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/ko-product-sales/panel_attach_doc/jcr:content/dictionary">
+    <f5f7e87c-f81a-4ae4-ae81-7ef23c118b1b
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##6354"
+        sling:message="Attach Document"/>
+    <_x0039_5b9ea86-b3a6-490f-afe2-b1f7f6389388
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidefileupload##buttonText##4850"
+        sling:message="Attach Document"/>
+    <_x0032_b7c2c8e-076f-4bd4-8b6f-3a8c9a85cdf4
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_813036##_value##4331"
+        sling:message="&lt;p>&lt;b>Supported file types:&amp;nbsp;&lt;/b>.doc(x), .ppt(x), xls(x), .jpg, .gif, .png, .pdf, .zip&lt;/p>&#xd;&#xa;"/>
+    <_x0036_4372cc0-f66a-4c31-84f0-5cac35763553
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_648756##_value##1662"
+        sling:message="&lt;p>&lt;b>Size limit&lt;/b>: 8 MB(Note: You can only add one file per submission, If multiple attachments are needed, please place in a single .zip file before attaching.)&lt;/p>"/>
+</jcr:root>

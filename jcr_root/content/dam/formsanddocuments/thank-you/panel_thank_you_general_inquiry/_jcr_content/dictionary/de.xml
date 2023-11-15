@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:language="de"
+    jcr:mixinTypes="[mix:language]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:basename="/content/dam/formsanddocuments/thank-you/panel_thank_you_general_inquiry/jcr:content/dictionary">
+    <_x0031_fe3ce99-a7d5-4ac7-a575-746569541e3c
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="jcr:title##2202"
+        sling:message="Vielen Dank Allgemeine Fragen"/>
+    <ccebac1c-4829-4adf-b88e-13007c43aa1f
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##_value##1805"
+        sling:message="&lt;p>Success!&lt;/p>"/>
+    <f30068c4-a71e-4efe-9c94-70de56983a48
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##afformtitle_copy##jcr:title##9345"
+        sling:message="Adaptive Form Title"/>
+    <cb71d0a4-a7ed-406a-95b4-b3ac25a564fc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidetextdraw_copy##_value##1582"
+        sling:message="&lt;p>Vielen Dank dafur, dass Sie Ihre Anfrage bezuglich &lt;b>{Webaccountregistrierung  | einer Fehlerangave auf der Webseite  |  Unterstutzung im Bereich von Qualitatssicherung oder Unterstutzung bei einer Bestellung}&lt;/b>.&lt;/p>&#xd;&#xa;&lt;p>Wir haben Ihre Anfrage empfangen und eine Bestatutgungsnachricht ist an die Adresse &lt;a href=&quot;mailto:john.doe@dow.com&quot; data-clickable-id=&quot;clickable-1&quot;>john.doe@dow.com&lt;/a> geschickt worden. Sie konnen mit einer Ruckmeldung unsererseits innerhalb von 48 Stunden uber E-Mail technen.&lt;/p>&#xd;&#xa;&lt;p>In der Zwischenzeit konnen Sie sich die &lt;a href=&quot;https://www.dow.com/en-us/faq.html&quot; data-clickable-id=&quot;clickable-1&quot; target=&quot;_blank&quot;>FAQs&lt;/a> anschauen, falls Sie weitere Fragen haben oder konnen Sie mehr auf Dow.com erfahren!&lt;/p>&#xd;&#xa;"/>
+    <a3e9c637-c336-4088-9034-8a66263798fc
+        jcr:mixinTypes="[sling:Message]"
+        jcr:primaryType="nt:folder"
+        sling:key="guideContainer##rootPanel##items##guidebutton_copy##jcr:title##4096"
+        sling:message="Zurucl zu &quot;Kontaktieren Sie uns&quot;"/>
+</jcr:root>
